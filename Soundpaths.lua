@@ -36,7 +36,7 @@ LSM:Register("sound", "|cff00ff00Moon|r", [[Interface\Addons\SharedMedia_ONS\sou
 LSM:Register("sound", "|cff00ff00Triangle|r", [[Interface\Addons\SharedMedia_ONS\sound\15_Triangle.ogg]])
 LSM:Register("sound", "|cff00ff00Diamond|r", [[Interface\Addons\SharedMedia_ONS\sound\16_Diamond.ogg]])
 LSM:Register("sound", "|cff00ff00Circle|r", [[Interface\Addons\SharedMedia_ONS\sound\17_Circle.ogg]])
-LSM:Register("sound", "||cff00ff00Star|r", [[Interface\Addons\SharedMedia_ONS\sound\18_Star.ogg]])
+LSM:Register("sound", "|cff00ff00Star|r", [[Interface\Addons\SharedMedia_ONS\sound\18_Star.ogg]])
 
 ----------- Icons -------------
 LSM:Register("sound", "|cff00ff00ADDS|r", [[Interface\Addons\SharedMedia_ONS\sound\19_Adds.ogg]])
