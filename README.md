@@ -19,7 +19,3 @@ The One Night Stand Shared Media Library is released under the [MIT License](htt
 
 ## Acknowledgements
 We would like to express our gratitude to the open-source community and the contributors who have made this library possible. Without their efforts, this project would not have been successful.
-
----
-
-*Note: This README provides a brief introduction to the One Night Stand Shared Media Library. For detailed documentation, installation instructions, and usage guidelines, please refer to the project's GitHub repository.*
