@@ -105,5 +105,11 @@ LSM:Register("sound", "|cff00ff00Immunity|r", [[Interface\Addons\SharedMedia_ONS
 LSM:Register("sound", "|cff00ff00Immune|r", [[Interface\Addons\SharedMedia_ONS\sound\81_Immune.ogg]])
 LSM:Register("sound", "|cff00ff00GoOut|r", [[Interface\Addons\SharedMedia_ONS\sound\82_GoOut.ogg]])
 LSM:Register("sound", "|cff00ff00TranceEat|r", [[Interface\Addons\SharedMedia_ONS\sound\83_TranceEat.ogg]])
+
+
+
+
+
+
 --   STATUSBAR
 -- -----
