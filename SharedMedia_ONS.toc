@@ -2,7 +2,8 @@
 ## Title: |cFFFFFF00<ONS> - Media Pack |r 
 ## IconTexture: Interface\AddOns\SharedMedia_ONS\assets\onsIcon.blp
 ## Notes: A media pack for ONS addons.
-
+## Version: 1.0.2
+## X-Curse-Project-ID: 960094
 
 libs\LibStub\LibStub.lua
 libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
