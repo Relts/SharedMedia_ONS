@@ -135,9 +135,9 @@ LSM:Register("sound", "|cff00ff00Phase Three|r", [[Interface\Addons\SharedMedia_
 
 ------- V1.0.1 Sounds ------------
 LSM:Register("sound", "|cff00ff00Intermission|r", [[Interface\Addons\SharedMedia_ONS\sound\111_Intermission.mp3]])
-LSM:Register("sound", "|cff00ff00Intermission One|r", [[Interface\Addons\SharedMedia_ONS\sound\112_IntermissionOne.mp3]])
-LSM:Register("sound", "|cff00ff00Intermission Two|r", [[Interface\Addons\SharedMedia_ONS\sound\113_IntermissionTwo.mp3]])
-LSM:Register("sound", "|cff00ff00Intermission Three|r", [[Interface\Addons\SharedMedia_ONS\sound\114_IntermissionThree.mp3]])
+LSM:Register("sound", "|cff00ff00Intermission 1|r", [[Interface\Addons\SharedMedia_ONS\sound\112_IntermissionOne.mp3]])
+LSM:Register("sound", "|cff00ff00Intermission 2|r", [[Interface\Addons\SharedMedia_ONS\sound\113_IntermissionTwo.mp3]])
+LSM:Register("sound", "|cff00ff00Intermission 3|r", [[Interface\Addons\SharedMedia_ONS\sound\114_IntermissionThree.mp3]])
 LSM:Register("sound", "|cff00ff00Fixated|r", [[Interface\Addons\SharedMedia_ONS\sound\115_Fixated.mp3]])
 LSM:Register("sound", "|cff00ff00High Energy|r", [[Interface\Addons\SharedMedia_ONS\sound\116_HighEnergy.mp3]])
 LSM:Register("sound", "|cff00ff00High Stacks|r", [[Interface\Addons\SharedMedia_ONS\sound\117_HighStacks.mp3]])
