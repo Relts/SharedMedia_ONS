@@ -1,5 +1,4 @@
-# < One Night Stand > 
-# Shared Media Library
+# < One Night Stand > Shared Media Library
 
 ## Overview
 The One Night Stand Shared Media Library is a powerful and versatile media library designed specifically for the gaming guild "One Night Stand". It provides enhanced audio quality and the ability to quickly add sound files for specific encounters during gameplay.

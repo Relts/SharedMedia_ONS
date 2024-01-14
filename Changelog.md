@@ -8,3 +8,7 @@
 * made the current sounds louder 
 * added in additional sounds
 * Updated Readme.md
+
+# Version 1.1.2
+* Name Changes 
+* New Sounds Added
