@@ -12,9 +12,10 @@ local LSM = LibStub("LibSharedMedia-3.0")
 --   FONT
 -- -----
 
--- -----
+-- -------------------
 --   SOUND
--- -----
+-- -------------------
+
 ----------- Numbers------------
 LSM:Register("sound", "|cff00ff00--Numbers--|r", [[Interface\Addons\SharedMedia_ONS\sound\PLACEHOLDER.mp3]])
 LSM:Register("sound", "|cff00ff001|r", [[Interface\Addons\SharedMedia_ONS\sound\01_1.mp3]])
@@ -39,7 +40,6 @@ LSM:Register("sound", "|cff00ff00Circle|r", [[Interface\Addons\SharedMedia_ONS\s
 LSM:Register("sound", "|cff00ff00Star|r", [[Interface\Addons\SharedMedia_ONS\sound\18_Star.mp3]])
 
 ----------- Icons -------------
-
 LSM:Register("sound", "|cff00ff00ADDS|r", [[Interface\Addons\SharedMedia_ONS\sound\20_Adds.mp3]])
 LSM:Register("sound", "|cff00ff00AOE|r", [[Interface\Addons\SharedMedia_ONS\sound\21_AOE.mp3]])
 LSM:Register("sound", "|cff00ff00Assist|r", [[Interface\Addons\SharedMedia_ONS\sound\22_Assist.mp3]])
@@ -65,7 +65,7 @@ LSM:Register("sound", "|cff00ff00Dance|r", [[Interface\Addons\SharedMedia_ONS\so
 LSM:Register("sound", "|cff00ff00Debuff|r", [[Interface\Addons\SharedMedia_ONS\sound\42_Debuff.mp3]])
 LSM:Register("sound", "|cff00ff00Dispel|r", [[Interface\Addons\SharedMedia_ONS\sound\43_Dispel.mp3]])
 LSM:Register("sound", "|cff00ff00Dodge|r", [[Interface\Addons\SharedMedia_ONS\sound\44_Dodge.mp3]])
-LSM:Register("sound", "|cff00ff00DontMove|r", [[Interface\Addons\SharedMedia_ONS\sound\45_DontMove.mp3]])
+LSM:Register("sound", "|cff00ff00Dont Move|r", [[Interface\Addons\SharedMedia_ONS\sound\45_DontMove.mp3]])
 LSM:Register("sound", "|cff00ff00DOT|r", [[Interface\Addons\SharedMedia_ONS\sound\46_DOT.mp3]])
 LSM:Register("sound", "|cff00ff00DROP|r", [[Interface\Addons\SharedMedia_ONS\sound\47_DROP.mp3]])
 LSM:Register("sound", "|cff00ff00ENTER|r", [[Interface\Addons\SharedMedia_ONS\sound\48_ENTER.mp3]])
@@ -80,12 +80,12 @@ LSM:Register("sound", "|cff00ff00GO|r", [[Interface\Addons\SharedMedia_ONS\sound
 LSM:Register("sound", "|cff00ff00Stop|r", [[Interface\Addons\SharedMedia_ONS\sound\57_Stop.mp3]])
 LSM:Register("sound", "|cff00ff00Posion|r", [[Interface\Addons\SharedMedia_ONS\sound\58_Posion.mp3]])
 LSM:Register("sound", "|cff00ff00Fire|r", [[Interface\Addons\SharedMedia_ONS\sound\59_Fire.mp3]])
-LSM:Register("sound", "|cff00ff00VoidZone|r", [[Interface\Addons\SharedMedia_ONS\sound\60_VoidZone.mp3]])
-LSM:Register("sound", "|cff00ff00FlareBomb|r", [[Interface\Addons\SharedMedia_ONS\sound\61_FlareBomb.mp3]])
-LSM:Register("sound", "|cff00ff00FeastDown|r", [[Interface\Addons\SharedMedia_ONS\sound\62_FeastDown.mp3]])
-LSM:Register("sound", "|cff00ff00BuffsMissing|r", [[Interface\Addons\SharedMedia_ONS\sound\63_BuffsMissing.mp3]])
+LSM:Register("sound", "|cff00ff00Void Zone|r", [[Interface\Addons\SharedMedia_ONS\sound\60_VoidZone.mp3]])
+LSM:Register("sound", "|cff00ff00Flare Bomb|r", [[Interface\Addons\SharedMedia_ONS\sound\61_FlareBomb.mp3]])
+LSM:Register("sound", "|cff00ff00Feast Down|r", [[Interface\Addons\SharedMedia_ONS\sound\62_FeastDown.mp3]])
+LSM:Register("sound", "|cff00ff00Buffs Missing|r", [[Interface\Addons\SharedMedia_ONS\sound\63_BuffsMissing.mp3]])
 LSM:Register("sound", "|cff00ff00Soak|r", [[Interface\Addons\SharedMedia_ONS\sound\64_Soak.mp3]])
-LSM:Register("sound", "|cff00ff00DontSoak|r", [[Interface\Addons\SharedMedia_ONS\sound\65_DontSoak.mp3]])
+LSM:Register("sound", "|cff00ff00Dont Soak|r", [[Interface\Addons\SharedMedia_ONS\sound\65_DontSoak.mp3]])
 LSM:Register("sound", "|cff00ff00Red|r", [[Interface\Addons\SharedMedia_ONS\sound\66_Red.mp3]])
 LSM:Register("sound", "|cff00ff00Blue|r", [[Interface\Addons\SharedMedia_ONS\sound\67_Blue.mp3]])
 LSM:Register("sound", "|cff00ff00Green|r", [[Interface\Addons\SharedMedia_ONS\sound\68_Green.mp3]])
@@ -97,26 +97,26 @@ LSM:Register("sound", "|cff00ff00Yellow|r", [[Interface\Addons\SharedMedia_ONS\s
 LSM:Register("sound", "|cff00ff00Follow|r", [[Interface\Addons\SharedMedia_ONS\sound\74_Follow.mp3]])
 LSM:Register("sound", "|cff00ff00MountUp|r", [[Interface\Addons\SharedMedia_ONS\sound\75_MountUp.mp3]])
 LSM:Register("sound", "|cff00ff00Personals|r", [[Interface\Addons\SharedMedia_ONS\sound\76_Personals.mp3]])
-LSM:Register("sound", "|cff00ff00HealthStone|r", [[Interface\Addons\SharedMedia_ONS\sound\77_HealthStone.mp3]])
-LSM:Register("sound", "|cff00ff00HealthPot|r", [[Interface\Addons\SharedMedia_ONS\sound\78_HealthPot.mp3]])
+LSM:Register("sound", "|cff00ff00Health Stone|r", [[Interface\Addons\SharedMedia_ONS\sound\77_HealthStone.mp3]])
+LSM:Register("sound", "|cff00ff00Health Pot|r", [[Interface\Addons\SharedMedia_ONS\sound\78_HealthPot.mp3]])
 LSM:Register("sound", "|cff00ff00Stack|r", [[Interface\Addons\SharedMedia_ONS\sound\79_Stack.mp3]])
 LSM:Register("sound", "|cff00ff00Freedom|r", [[Interface\Addons\SharedMedia_ONS\sound\80_Freedom.mp3]])
 LSM:Register("sound", "|cff00ff00Immunity|r", [[Interface\Addons\SharedMedia_ONS\sound\81_Immunity.mp3]])
 LSM:Register("sound", "|cff00ff00Immune|r", [[Interface\Addons\SharedMedia_ONS\sound\82_Immune.mp3]])
-LSM:Register("sound", "|cff00ff00GoOut|r", [[Interface\Addons\SharedMedia_ONS\sound\83_GoOut.mp3]])
-LSM:Register("sound", "|cff00ff00TranceEat|r", [[Interface\Addons\SharedMedia_ONS\sound\84_TranceEat.mp3]])
+LSM:Register("sound", "|cff00ff00Go Out|r", [[Interface\Addons\SharedMedia_ONS\sound\83_GoOut.mp3]])
+LSM:Register("sound", "|cff00ff00Trance Eat|r", [[Interface\Addons\SharedMedia_ONS\sound\84_TranceEat.mp3]])
 
 LSM:Register("sound", "|cff00ff00Seeds|r", [[Interface\Addons\SharedMedia_ONS\sound\85_Seeds.mp3]])
-LSM:Register("sound", "|cff00ff00DropSeeds|r", [[Interface\Addons\SharedMedia_ONS\sound\86_DropSeeds.mp3]])
-LSM:Register("sound", "|cff00ff00CollectSeeds|r", [[Interface\Addons\SharedMedia_ONS\sound\87_CollectSeeds.mp3]])
-LSM:Register("sound", "|cff00ff00CorruptedSeeds|r", [[Interface\Addons\SharedMedia_ONS\sound\88_CorruptedSeeds.mp3]])
+LSM:Register("sound", "|cff00ff00Drop Seeds|r", [[Interface\Addons\SharedMedia_ONS\sound\86_DropSeeds.mp3]])
+LSM:Register("sound", "|cff00ff00Collect Seeds|r", [[Interface\Addons\SharedMedia_ONS\sound\87_CollectSeeds.mp3]])
+LSM:Register("sound", "|cff00ff00Corrupted Seeds|r", [[Interface\Addons\SharedMedia_ONS\sound\88_CorruptedSeeds.mp3]])
 LSM:Register("sound", "|cff00ff00Shields|r", [[Interface\Addons\SharedMedia_ONS\sound\89_Shields.mp3]])
-LSM:Register("sound", "|cff00ff00ShieldGone|r", [[Interface\Addons\SharedMedia_ONS\sound\90_ShieldGone.mp3]])
-LSM:Register("sound", "|cff00ff00ShieldUp|r", [[Interface\Addons\SharedMedia_ONS\sound\91_ShieldUp.mp3]])
-LSM:Register("sound", "|cff00ff00ShieldDown|r", [[Interface\Addons\SharedMedia_ONS\sound\92_ShieldDown.mp3]])
+LSM:Register("sound", "|cff00ff00Shield Gone|r", [[Interface\Addons\SharedMedia_ONS\sound\90_ShieldGone.mp3]])
+LSM:Register("sound", "|cff00ff00Shield Up|r", [[Interface\Addons\SharedMedia_ONS\sound\91_ShieldUp.mp3]])
+LSM:Register("sound", "|cff00ff00Shield Down|r", [[Interface\Addons\SharedMedia_ONS\sound\92_ShieldDown.mp3]])
 LSM:Register("sound", "|cff00ff00Stack|r", [[Interface\Addons\SharedMedia_ONS\sound\93_Stack.mp3]])
 LSM:Register("sound", "|cff00ff00Danger|r", [[Interface\Addons\SharedMedia_ONS\sound\94_Danger.mp3]])
-LSM:Register("sound", "|cff00ff00BeamsIncoming|r", [[Interface\Addons\SharedMedia_ONS\sound\95_BeamsIncoming.mp3]])
+LSM:Register("sound", "|cff00ff00Beams Incoming|r", [[Interface\Addons\SharedMedia_ONS\sound\95_BeamsIncoming.mp3]])
 LSM:Register("sound", "|cff00ff00Spread|r", [[Interface\Addons\SharedMedia_ONS\sound\96_Spread.mp3]])
 LSM:Register("sound", "|cff00ff00Move|r", [[Interface\Addons\SharedMedia_ONS\sound\97_Move.mp3]])
 LSM:Register("sound", "|cff00ff00Pull|r", [[Interface\Addons\SharedMedia_ONS\sound\98_Pull.mp3]])
@@ -124,27 +124,27 @@ LSM:Register("sound", "|cff00ff00Targeted|r", [[Interface\Addons\SharedMedia_ONS
 LSM:Register("sound", "|cff00ff00Target|r", [[Interface\Addons\SharedMedia_ONS\sound\100_Target.mp3]])
 LSM:Register("sound", "|cff00ff00Orbs|r", [[Interface\Addons\SharedMedia_ONS\sound\101_Orbs.mp3]])
 LSM:Register("sound", "|cff00ff00Orb|r", [[Interface\Addons\SharedMedia_ONS\sound\102_Orb.mp3]])
-LSM:Register("sound", "|cff00ff00GravityBomb|r", [[Interface\Addons\SharedMedia_ONS\sound\103_GravityBomb.mp3]])
+LSM:Register("sound", "|cff00ff00Gravity Bomb|r", [[Interface\Addons\SharedMedia_ONS\sound\103_GravityBomb.mp3]])
 LSM:Register("sound", "|cff00ff00Bozo|r", [[Interface\Addons\SharedMedia_ONS\sound\104_Bozo.mp3]])
-LSM:Register("sound", "|cff00ff00YouDied|r", [[Interface\Addons\SharedMedia_ONS\sound\105_YouDied.mp3]])
-LSM:Register("sound", "|cff00ff00PhaseChange|r", [[Interface\Addons\SharedMedia_ONS\sound\106_PhaseChange.mp3]])
+LSM:Register("sound", "|cff00ff00You Died|r", [[Interface\Addons\SharedMedia_ONS\sound\105_YouDied.mp3]])
+LSM:Register("sound", "|cff00ff00Phase Change|r", [[Interface\Addons\SharedMedia_ONS\sound\106_PhaseChange.mp3]])
 LSM:Register("sound", "|cff00ff00Phasing|r", [[Interface\Addons\SharedMedia_ONS\sound\107_Phasing.mp3]])
-LSM:Register("sound", "|cff00ff00PhaseOne|r", [[Interface\Addons\SharedMedia_ONS\sound\108_PhaseOne.mp3]])
-LSM:Register("sound", "|cff00ff00PhaseTwo|r", [[Interface\Addons\SharedMedia_ONS\sound\109_PhaseTwo.mp3]])
-LSM:Register("sound", "|cff00ff00PhaseThree|r", [[Interface\Addons\SharedMedia_ONS\sound\110_PhaseThree.mp3]])
+LSM:Register("sound", "|cff00ff00Phase One|r", [[Interface\Addons\SharedMedia_ONS\sound\108_PhaseOne.mp3]])
+LSM:Register("sound", "|cff00ff00Phase Two|r", [[Interface\Addons\SharedMedia_ONS\sound\109_PhaseTwo.mp3]])
+LSM:Register("sound", "|cff00ff00Phase Three|r", [[Interface\Addons\SharedMedia_ONS\sound\110_PhaseThree.mp3]])
 
-
+------- V1.0.1 Sounds ------------
 LSM:Register("sound", "|cff00ff00Intermission|r", [[Interface\Addons\SharedMedia_ONS\sound\111_Intermission.mp3]])
-LSM:Register("sound", "|cff00ff00IntermissionOne|r", [[Interface\Addons\SharedMedia_ONS\sound\112_IntermissionOne.mp3]])
-LSM:Register("sound", "|cff00ff00IntermissionTwo|r", [[Interface\Addons\SharedMedia_ONS\sound\113_IntermissionTwo.mp3]])
-LSM:Register("sound", "|cff00ff00IntermissionThree|r", [[Interface\Addons\SharedMedia_ONS\sound\114_IntermissionThree.mp3]])
+LSM:Register("sound", "|cff00ff00Intermission One|r", [[Interface\Addons\SharedMedia_ONS\sound\112_IntermissionOne.mp3]])
+LSM:Register("sound", "|cff00ff00Intermission Two|r", [[Interface\Addons\SharedMedia_ONS\sound\113_IntermissionTwo.mp3]])
+LSM:Register("sound", "|cff00ff00Intermission Three|r", [[Interface\Addons\SharedMedia_ONS\sound\114_IntermissionThree.mp3]])
 LSM:Register("sound", "|cff00ff00Fixated|r", [[Interface\Addons\SharedMedia_ONS\sound\115_Fixated.mp3]])
-LSM:Register("sound", "|cff00ff00HighEnergy|r", [[Interface\Addons\SharedMedia_ONS\sound\116_HighEnergy.mp3]])
-LSM:Register("sound", "|cff00ff00HighStacks|r", [[Interface\Addons\SharedMedia_ONS\sound\117_HighStacks.mp3]])
+LSM:Register("sound", "|cff00ff00High Energy|r", [[Interface\Addons\SharedMedia_ONS\sound\116_HighEnergy.mp3]])
+LSM:Register("sound", "|cff00ff00High Stacks|r", [[Interface\Addons\SharedMedia_ONS\sound\117_HighStacks.mp3]])
 LSM:Register("sound", "|cff00ff00Hide|r", [[Interface\Addons\SharedMedia_ONS\sound\118_Hide.mp3]])
 LSM:Register("sound", "|cff00ff00Transition|r", [[Interface\Addons\SharedMedia_ONS\sound\119_Transition.mp3]])
 LSM:Register("sound", "|cff00ff00Switch|r", [[Interface\Addons\SharedMedia_ONS\sound\120_Switch.mp3]])
-LSM:Register("sound", "|cff00ff00StopCasting|r", [[Interface\Addons\SharedMedia_ONS\sound\121_StopCasting.mp3]])
+LSM:Register("sound", "|cff00ff00Stop Casting|r", [[Interface\Addons\SharedMedia_ONS\sound\121_StopCasting.mp3]])
 LSM:Register("sound", "|cff00ff00Jump|r", [[Interface\Addons\SharedMedia_ONS\sound\122_Jump.mp3]])
 LSM:Register("sound", "|cff00ff00Totem|r", [[Interface\Addons\SharedMedia_ONS\sound\123_Totem.mp3]])
 LSM:Register("sound", "|cff00ff00Trap|r", [[Interface\Addons\SharedMedia_ONS\sound\124_Trap.mp3]])
@@ -152,5 +152,10 @@ LSM:Register("sound", "|cff00ff00Pushback|r", [[Interface\Addons\SharedMedia_ONS
 LSM:Register("sound", "|cff00ff00Winds|r", [[Interface\Addons\SharedMedia_ONS\sound\126_Winds.mp3]])
 LSM:Register("sound", "|cff00ff00Pull|r", [[Interface\Addons\SharedMedia_ONS\sound\127_Pull.mp3]])
 
---   STATUSBAR
--- -----
+--------- V1.1.1 Sounds -----------
+LSM:Register("sound", "|cff00ff00Viranyr Get Away|r", [[Interface\Addons\SharedMedia_ONS\sound\128_GetAwayFromMe.mp3]])
+LSM:Register("sound", "|cff00ff00Cheeky Rogue|r", [[Interface\Addons\SharedMedia_ONS\sound\129_PeksLaugh.mp3]])
+
+--------- Random Sounds --------
+LSM:Register("sound", "|cff55ee55ark Souls Death|r", [[Interface\Addons\SharedMedia_ONS\sound\Z1_DarkSouls_Death.mp3]])
+LSM:Register("sound", "|cff55ee55Skill Issue|r", [[Interface\Addons\SharedMedia_ONS\sound\Z2_SKillIssue.ogg]])
