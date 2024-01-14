@@ -157,5 +157,5 @@ LSM:Register("sound", "|cff00ff00Viranyr Get Away|r", [[Interface\Addons\SharedM
 LSM:Register("sound", "|cff00ff00Cheeky Rogue|r", [[Interface\Addons\SharedMedia_ONS\sound\129_PeksLaugh.mp3]])
 
 --------- Random Sounds --------
-LSM:Register("sound", "|cff55ee55ark Souls Death|r", [[Interface\Addons\SharedMedia_ONS\sound\Z1_DarkSouls_Death.mp3]])
+LSM:Register("sound", "|cff55ee55Dark Souls Death|r", [[Interface\Addons\SharedMedia_ONS\sound\Z1_DarkSouls_Death.mp3]])
 LSM:Register("sound", "|cff55ee55Skill Issue|r", [[Interface\Addons\SharedMedia_ONS\sound\Z2_SKillIssue.ogg]])
