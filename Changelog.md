@@ -12,3 +12,7 @@
 # Version 1.1.2
 * Name Changes 
 * New Sounds Added
+
+# Version 1.1.3
+* Bump Toc
+* New Sounds Added

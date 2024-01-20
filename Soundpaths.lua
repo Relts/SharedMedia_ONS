@@ -162,6 +162,14 @@ LSM:Register("sound", "|cff00ff00Fox No|r", [[Interface\Addons\SharedMedia_ONS\s
 LSM:Register("sound", "|cff00ff00Left|r", [[Interface\Addons\SharedMedia_ONS\sound\133_Left.mp3]])
 LSM:Register("sound", "|cff00ff00Right|r", [[Interface\Addons\SharedMedia_ONS\sound\134_Right.mp3]])
 
+--------- V1.1.3 Sounds -----------
+-- Pushback
+-- Melee Soak
+-- Ronged Soak
+-- Melee
+-- Ranged
+
+
 --------- Random Sounds --------
 LSM:Register("sound", "|cff55ee55Dark Souls Death|r", [[Interface\Addons\SharedMedia_ONS\sound\Z1_DarkSouls_Death.mp3]])
 LSM:Register("sound", "|cff55ee55Skill Issue|r", [[Interface\Addons\SharedMedia_ONS\sound\Z2_SKillIssue.ogg]])
