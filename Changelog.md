@@ -16,3 +16,6 @@
 # Version 1.1.3
 * Bump Toc
 * New Sounds Added
+
+# Version 1.1.4
+* New Sounds Added

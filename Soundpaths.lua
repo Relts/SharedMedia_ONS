@@ -1,19 +1,19 @@
-local LSM = LibStub("LibSharedMedia-3.0") 
+local LSM = LibStub("LibSharedMedia-3.0")
 
--- ----- 
--- BACKGROUND 
--- ----- 
+-- -----
+-- BACKGROUND
+-- -----
 
--- ----- 
---  BORDER 
--- ---- 
+-- -----
+--  BORDER
+-- ----
 
 -- -----
 --   FONT
 -- -----
 
 -- -------------------
---   SOUND
+--   SOUNDS
 -- -------------------
 
 ----------- Numbers------------
@@ -48,7 +48,7 @@ LSM:Register("sound", "|cff00ff00Backup|r", [[Interface\Addons\SharedMedia_ONS\s
 LSM:Register("sound", "|cff00ff00Bait|r", [[Interface\Addons\SharedMedia_ONS\sound\26_Bait.mp3]])
 LSM:Register("sound", "|cff00ff00Beam|r", [[Interface\Addons\SharedMedia_ONS\sound\27_Beam.mp3]])
 LSM:Register("sound", "|cff00ff00Bloodlust|r", [[Interface\Addons\SharedMedia_ONS\sound\28_BloodLust.mp3]])
-LSM:Register("sound", "|cff00ff00Blue|r", [[Interface\Addons\SharedMedia_ONS\sound\29_Blue.mp3]])
+LSM:Register("sound", "|cff00ff00Blue|r", [[Interface\Addons\SharedMedia_ONS\sound\29_Blue.mp3]]) --FIXME remove this sound it is a duplicate
 LSM:Register("sound", "|cff00ff00Boss|r", [[Interface\Addons\SharedMedia_ONS\sound\30_Boss.mp3]])
 LSM:Register("sound", "|cff00ff00Break|r", [[Interface\Addons\SharedMedia_ONS\sound\31_Break.mp3]])
 LSM:Register("sound", "|cff00ff00Buff|r", [[Interface\Addons\SharedMedia_ONS\sound\32_Buff.mp3]])
@@ -162,12 +162,47 @@ LSM:Register("sound", "|cff00ff00Fox No|r", [[Interface\Addons\SharedMedia_ONS\s
 LSM:Register("sound", "|cff00ff00Left|r", [[Interface\Addons\SharedMedia_ONS\sound\133_Left.mp3]])
 LSM:Register("sound", "|cff00ff00Right|r", [[Interface\Addons\SharedMedia_ONS\sound\134_Right.mp3]])
 
---------- V1.1.3 Sounds -----------
--- Pushback
--- Melee Soak
--- Ronged Soak
--- Melee
--- Ranged
+--------- V1.1.4 Sounds -----------
+-- SOUND Pushback
+-- SOUND Melee Soak
+-- SOUND Ronged Soak
+-- SOUND Melee
+-- SOUND Ranged
+-- SOUND Pain Suppression
+-- SOUND Barkskin
+-- SOUND Ironbark
+-- SOUND Guardian Spirit
+-- SOUND Life Cocoon
+-- SOUND Blessing of Protection
+-- SOUND Blessing of Spellwarding
+-- SOUND Blessing of Freedom
+-- SOUND Blessing of Sacrifice
+-- SOUND Zephyr
+-- SOUND Darkness
+-- SOUND Rallying Cry
+-- SOUND Spirit Link Totem
+-- SOUND Barrier
+-- SOUND Dome
+-- SOUND Wind Rush
+-- SOUND Healing Tide
+-- SOUND Grounding
+-- SOUND Tremor
+-- SOUND Dispel
+-- SOUND Purge
+-- SOUND Tranq
+-- SOUND Revival
+-- SOUND Aura Mastery
+-- SOUND Cheat Death
+-- SOUND Roar
+-- SOUND Time Spiral
+-- SOUND Rescue
+-- SOUND Leap of Faith
+-- SOUND Mass Grip
+-- SOUND Safe
+-- SOUND Get Safe
+-- SOUND Not Safe
+
+
 
 
 --------- Random Sounds --------
@@ -178,3 +213,7 @@ LSM:Register("sound", "|cff55ee55Mega Pint|r", [[Interface\Addons\SharedMedia_ON
 LSM:Register("sound", "|cff55ee55Daddy Chill|r", [[Interface\Addons\SharedMedia_ONS\sound\Z5_DaddyChill.mp3]])
 LSM:Register("sound", "|cff55ee55Taa Daa|r", [[Interface\Addons\SharedMedia_ONS\sound\Z6_TaDa.mp3]])
 LSM:Register("sound", "|cff55ee55Zelda Chest|r", [[Interface\Addons\SharedMedia_ONS\sound\Z7_ZeldaChest.mp3]])
+
+
+-- TODO - Create Categories for all of the sounds so they can easily be searched in game.
+-- TODO - Add the in game Icon to the name of the markers.
