@@ -163,45 +163,49 @@ LSM:Register("sound", "|cff00ff00Left|r", [[Interface\Addons\SharedMedia_ONS\sou
 LSM:Register("sound", "|cff00ff00Right|r", [[Interface\Addons\SharedMedia_ONS\sound\134_Right.mp3]])
 
 --------- V1.1.4 Sounds -----------
--- SOUND Pushback
--- SOUND Melee Soak
--- SOUND Ronged Soak
--- SOUND Melee
--- SOUND Ranged
--- SOUND Pain Suppression
--- SOUND Barkskin
--- SOUND Ironbark
--- SOUND Guardian Spirit
--- SOUND Life Cocoon
--- SOUND Blessing of Protection
--- SOUND Blessing of Spellwarding
--- SOUND Blessing of Freedom
--- SOUND Blessing of Sacrifice
--- SOUND Zephyr
--- SOUND Darkness
--- SOUND Rallying Cry
--- SOUND Spirit Link Totem
--- SOUND Barrier
--- SOUND Dome
--- SOUND Wind Rush
--- SOUND Healing Tide
--- SOUND Grounding
--- SOUND Tremor
--- SOUND Dispel
--- SOUND Purge
--- SOUND Tranq
--- SOUND Revival
--- SOUND Aura Mastery
--- SOUND Cheat Death
--- SOUND Roar
--- SOUND Time Spiral
--- SOUND Rescue
--- SOUND Leap of Faith
--- SOUND Mass Grip
--- SOUND Safe
--- SOUND Get Safe
--- SOUND Not Safe
-
+-- V1.1.4 Sounds
+LSM:Register("sound", "|cff00ff00Pushback|r", [[Interface\Addons\SharedMedia_ONS\sound\135_Pushback.mp3]])
+LSM:Register("sound", "|cff00ff00Melee Soak|r", [[Interface\Addons\SharedMedia_ONS\sound\136_MeleeSoak.mp3]])
+LSM:Register("sound", "|cff00ff00Ranged Soak|r", [[Interface\Addons\SharedMedia_ONS\sound\137_RangedSoak.mp3]])
+LSM:Register("sound", "|cff00ff00Melee|r", [[Interface\Addons\SharedMedia_ONS\sound\138_Melee.mp3]])
+LSM:Register("sound", "|cff00ff00Ranged|r", [[Interface\Addons\SharedMedia_ONS\sound\139_Ranged.mp3]])
+LSM:Register("sound", "|cff00ff00Pain Suppression|r", [[Interface\Addons\SharedMedia_ONS\sound\140_PainSuppression.mp3]])
+LSM:Register("sound", "|cff00ff00Barkskin|r", [[Interface\Addons\SharedMedia_ONS\sound\141_Barksin.mp3]])
+LSM:Register("sound", "|cff00ff00Ironbark|r", [[Interface\Addons\SharedMedia_ONS\sound\142_Ironbark.mp3]])
+LSM:Register("sound", "|cff00ff00Guardian Spirit|r", [[Interface\Addons\SharedMedia_ONS\sound\143_GuardianSpirit.mp3]])
+LSM:Register("sound", "|cff00ff00Life Cocoon|r", [[Interface\Addons\SharedMedia_ONS\sound\144_LifeCocoon.mp3]])
+LSM:Register("sound", "|cff00ff00Blessing of Protection|r",
+    [[Interface\Addons\SharedMedia_ONS\sound\145_BlessingOfProtection.mp3]])
+LSM:Register("sound", "|cff00ff00BOP|r", [[Interface\Addons\SharedMedia_ONS\sound\146_Bop.mp3]])
+LSM:Register("sound", "|cff00ff00Spellward|r", [[Interface\Addons\SharedMedia_ONS\sound\147_SpellWard.mp3]])
+LSM:Register("sound", "|cff00ff00Freedom|r", [[Interface\Addons\SharedMedia_ONS\sound\148_Freedom.mp3]])
+LSM:Register("sound", "|cff00ff00Sacrifice|r", [[Interface\Addons\SharedMedia_ONS\sound\149_Sacrifice.mp3]])
+LSM:Register("sound", "|cff00ff00Zephyr|r", [[Interface\Addons\SharedMedia_ONS\sound\150_Zephyr.mp3]])
+LSM:Register("sound", "|cff00ff00Darkness|r", [[Interface\Addons\SharedMedia_ONS\sound\151_Darkness.mp3]])
+LSM:Register("sound", "|cff00ff00Rally|r", [[Interface\Addons\SharedMedia_ONS\sound\152_Rally.mp3]])
+LSM:Register("sound", "|cff00ff00Spirit Link|r", [[Interface\Addons\SharedMedia_ONS\sound\153_SpiritLink.mp3]])
+LSM:Register("sound", "|cff00ff00Link|r", [[Interface\Addons\SharedMedia_ONS\sound\154_Link.mp3]])
+LSM:Register("sound", "|cff00ff00Barrier|r", [[Interface\Addons\SharedMedia_ONS\sound\155_Barrier.mp3]])
+LSM:Register("sound", "|cff00ff00Dome|r", [[Interface\Addons\SharedMedia_ONS\sound\156_Dome.mp3]])
+LSM:Register("sound", "|cff00ff00Windrush|r", [[Interface\Addons\SharedMedia_ONS\sound\157_Windrush.mp3]])
+LSM:Register("sound", "|cff00ff00Healing Tide|r", [[Interface\Addons\SharedMedia_ONS\sound\158_HealingTide.mp3]])
+LSM:Register("sound", "|cff00ff00Tide|r", [[Interface\Addons\SharedMedia_ONS\sound\159_Tide.mp3]])
+LSM:Register("sound", "|cff00ff00Grounding|r", [[Interface\Addons\SharedMedia_ONS\sound\160_Grounding.mp3]])
+LSM:Register("sound", "|cff00ff00Tremor|r", [[Interface\Addons\SharedMedia_ONS\sound\161_Tremor.mp3]])
+LSM:Register("sound", "|cff00ff00Dispel|r", [[Interface\Addons\SharedMedia_ONS\sound\162_Dispel.mp3]])
+LSM:Register("sound", "|cff00ff00Purge|r", [[Interface\Addons\SharedMedia_ONS\sound\163_Purge.mp3]])
+LSM:Register("sound", "|cff00ff00Tranqu|r", [[Interface\Addons\SharedMedia_ONS\sound\164_Tranqu.mp3]])
+LSM:Register("sound", "|cff00ff00Revival|r", [[Interface\Addons\SharedMedia_ONS\sound\165_Revival.mp3]])
+LSM:Register("sound", "|cff00ff00Aura Mastery|r", [[Interface\Addons\SharedMedia_ONS\sound\166_AuraMastery.mp3]])
+LSM:Register("sound", "|cff00ff00AM|r", [[Interface\Addons\SharedMedia_ONS\sound\167_AM.mp3]])
+LSM:Register("sound", "|cff00ff00Cheat Death|r", [[Interface\Addons\SharedMedia_ONS\sound\168_CheatDeath.mp3]])
+LSM:Register("sound", "|cff00ff00Roar|r", [[Interface\Addons\SharedMedia_ONS\sound\169_Roar.mp3]])
+LSM:Register("sound", "|cff00ff00Time Spiral|r", [[Interface\Addons\SharedMedia_ONS\sound\170_TimeSpiral.mp3]])
+LSM:Register("sound", "|cff00ff00Rescue|r", [[Interface\Addons\SharedMedia_ONS\sound\171_Rescue.mp3]])
+LSM:Register("sound", "|cff00ff00Leap|r", [[Interface\Addons\SharedMedia_ONS\sound\172_Leap.mp3]])
+LSM:Register("sound", "|cff00ff00Mass Grip|r", [[Interface\Addons\SharedMedia_ONS\sound\173_MassGrip.mp3]])
+LSM:Register("sound", "|cff00ff00Safe|r", [[Interface\Addons\SharedMedia_ONS\sound\174_Safe.mp3]])
+LSM:Register("sound", "|cff00ff00Not Safe|r", [[Interface\Addons\SharedMedia_ONS\sound\175_NotSafe.mp3]])
 
 
 
