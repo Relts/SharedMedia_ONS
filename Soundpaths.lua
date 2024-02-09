@@ -26,7 +26,7 @@ LSM:Register("sound", "|cff00ff006|r", [[Interface\Addons\SharedMedia_ONS\sound\
 LSM:Register("sound", "|cff00ff007|r", [[Interface\Addons\SharedMedia_ONS\sound\07_7.mp3]])
 LSM:Register("sound", "|cff00ff008|r", [[Interface\Addons\SharedMedia_ONS\sound\08_8.mp3]])
 LSM:Register("sound", "|cff00ff009|r", [[Interface\Addons\SharedMedia_ONS\sound\09_9.mp3]])
-LSM:Register("sound", "|cFFFE000010|r", [[Interface\Addons\SharedMedia_ONS\sound\10_10.mp3]])
+LSM:Register("sound", "|cff00ff0010|r", [[Interface\Addons\SharedMedia_ONS\sound\10_10.mp3]])
 
 ---------- Markers ------------
 LSM:Register("sound", "|cff00ff00Skull|r", [[Interface\Addons\SharedMedia_ONS\sound\11_skull.mp3]])
@@ -207,6 +207,18 @@ LSM:Register("sound", "|cff00ff00Mass Grip|r", [[Interface\Addons\SharedMedia_ON
 LSM:Register("sound", "|cff00ff00Safe|r", [[Interface\Addons\SharedMedia_ONS\sound\174_Safe.mp3]])
 LSM:Register("sound", "|cff00ff00Not Safe|r", [[Interface\Addons\SharedMedia_ONS\sound\175_NotSafe.mp3]])
 
+
+----------- V1.1.5 Sounds -----------
+LSM:Register("sound", "|cff00ff00Stone Form|r", [[Interface\Addons\SharedMedia_ONS\sound\176_StoneForm.mp3]])
+LSM:Register("sound", "|cff00ff00Blaze|r", [[Interface\Addons\SharedMedia_ONS\sound\177_Blaze.mp3]])
+LSM:Register("sound", "|cff00ff00Blaze Hit|r", [[Interface\Addons\SharedMedia_ONS\sound\178_BlazeHit.mp3]])
+LSM:Register("sound", "|cff00ff00Cage|r", [[Interface\Addons\SharedMedia_ONS\sound\179_Cage.mp3]])
+LSM:Register("sound", "|cff00ff00Nuke|r", [[Interface\Addons\SharedMedia_ONS\sound\180_Nuke.mp3]])
+LSM:Register("sound", "|cff00ff00Tornado|r", [[Interface\Addons\SharedMedia_ONS\sound\181_Tornado.mp3]])
+LSM:Register("sound", "|cff00ff00Bad Blaze|r", [[Interface\Addons\SharedMedia_ONS\sound\182_BadBlaze.mp3]])
+LSM:Register("sound", "|cff00ff00Ducked|r", [[Interface\Addons\SharedMedia_ONS\sound\183_Ducked.mp3]])
+LSM:Register("sound", "|cff00ff00Purple|r", [[Interface\Addons\SharedMedia_ONS\sound\184_Purple.mp3]])
+LSM:Register("sound", "|cff00ff00Shadow|r", [[Interface\Addons\SharedMedia_ONS\sound\185_Shadow.mp3]])
 
 
 --------- Random Sounds --------
