@@ -48,7 +48,7 @@ LSM:Register("sound", "|cff00ff00Backup|r", [[Interface\Addons\SharedMedia_ONS\s
 LSM:Register("sound", "|cff00ff00Bait|r", [[Interface\Addons\SharedMedia_ONS\sound\26_Bait.mp3]])
 LSM:Register("sound", "|cff00ff00Beam|r", [[Interface\Addons\SharedMedia_ONS\sound\27_Beam.mp3]])
 LSM:Register("sound", "|cff00ff00Bloodlust|r", [[Interface\Addons\SharedMedia_ONS\sound\28_BloodLust.mp3]])
-LSM:Register("sound", "|cff00ff00Blue|r", [[Interface\Addons\SharedMedia_ONS\sound\29_Blue.mp3]]) --FIXME remove this sound it is a duplicate
+-- LSM:Register("sound", "|cff00ff00Blue|r", [[Interface\Addons\SharedMedia_ONS\sound\29_Blue.mp3]]) -- REVIEW duplicate sound name check for errors in game
 LSM:Register("sound", "|cff00ff00Boss|r", [[Interface\Addons\SharedMedia_ONS\sound\30_Boss.mp3]])
 LSM:Register("sound", "|cff00ff00Break|r", [[Interface\Addons\SharedMedia_ONS\sound\31_Break.mp3]])
 LSM:Register("sound", "|cff00ff00Buff|r", [[Interface\Addons\SharedMedia_ONS\sound\32_Buff.mp3]])
