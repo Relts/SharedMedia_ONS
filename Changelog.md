@@ -1,3 +1,7 @@
+# Version 1.1.7
+
+- Interface Bump
+
 # Version 1.1.6
 
 - Interface Bump
