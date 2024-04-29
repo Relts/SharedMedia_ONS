@@ -221,6 +221,58 @@ LSM:Register("sound", "|cff00ff00Purple|r", [[Interface\Addons\SharedMedia_ONS\s
 LSM:Register("sound", "|cff00ff00Shadow|r", [[Interface\Addons\SharedMedia_ONS\sound\185_Shadow.mp3]])
 
 
+----------- V1.1.7 Sounds -----------
+-- Group Soak
+-- Lightening
+-- Lightening Soak
+-- Middle
+-- Positive
+-- Negative
+-- Inversion
+-- Inverted
+-- Group
+-- Frontal
+-- Dance
+-- Dance Soon
+-- Magnet
+-- Grip
+-- Grip on Me
+-- Break Eggs
+-- Eggs
+-- Staff
+-- Staff Spawning
+-- Breath
+-- Breath Soon
+-- Boss Immune
+-- Black Hole
+-- Ascension
+-- Ascension Soon
+-- Detonation
+-- Ball
+-- New Ball
+-- Essence
+-- Breath
+-- Breath Soon
+-- Spear
+-- Dodge Waves
+-- Waves
+-- Absorbs
+-- Disarm
+-- Bombs
+-- Traps
+-- Magma
+-- Tantrum
+-- Knockback
+-- Break Wall
+-- Corrupted
+-- Mind Control
+-- Barrage
+-- Collect
+-- Get Out
+-- Get In
+
+
+
 --------- Random Sounds --------
 LSM:Register("sound", "|cff55ee55Dark Souls Death|r", [[Interface\Addons\SharedMedia_ONS\sound\Z1_DarkSouls_Death.mp3]])
 LSM:Register("sound", "|cff55ee55Skill Issue|r", [[Interface\Addons\SharedMedia_ONS\sound\Z2_SKillIssue.ogg]])
@@ -229,6 +281,9 @@ LSM:Register("sound", "|cff55ee55Mega Pint|r", [[Interface\Addons\SharedMedia_ON
 LSM:Register("sound", "|cff55ee55Daddy Chill|r", [[Interface\Addons\SharedMedia_ONS\sound\Z5_DaddyChill.mp3]])
 LSM:Register("sound", "|cff55ee55Taa Daa|r", [[Interface\Addons\SharedMedia_ONS\sound\Z6_TaDa.mp3]])
 LSM:Register("sound", "|cff55ee55Zelda Chest|r", [[Interface\Addons\SharedMedia_ONS\sound\Z7_ZeldaChest.mp3]])
+
+-- Pedro Song
+-- Surf Song
 
 
 -- TODO - Create Categories for all of the sounds so they can easily be searched in game.
