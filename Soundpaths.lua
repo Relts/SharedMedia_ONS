@@ -225,7 +225,7 @@ LSM:Register("sound", "|cff00ff00Purple|r", [[Interface\Addons\SharedMedia_ONS\s
 LSM:Register("sound", "|cff00ff00Shadow|r", [[Interface\Addons\SharedMedia_ONS\sound\185_Shadow.mp3]])
 
 
------------ V1.1.7 Sounds -----------
+----------- V1.1.8 Sounds -----------
 
 LSM:Register("sound", "|cff00ff00Group Soak|r", [[Interface\Addons\SharedMedia_ONS\sound\186_GroupSoak.mp3]])
 LSM:Register("sound", "|cff00ff00Lightning|r", [[Interface\Addons\SharedMedia_ONS\sound\187_Lightning.mp3]])
@@ -274,7 +274,7 @@ LSM:Register("sound", "|cff00ff00Collect|r", [[Interface\Addons\SharedMedia_ONS\
 LSM:Register("sound", "|cff00ff00Get Out|r", [[Interface\Addons\SharedMedia_ONS\sound\230_GetOut.mp3]])
 LSM:Register("sound", "|cff00ff00Get In|r", [[Interface\Addons\SharedMedia_ONS\sound\231_GetIn.mp3]])
 
------------ V1.1.8 Sounds -----------
+----------- V1.1.9 Sounds -----------
 
 
 --------- Random Sounds --------

@@ -1,3 +1,7 @@
+# Version 1.1.8
+
+- New Sounds Added
+
 # Version 1.1.7
 
 - Interface Bump
