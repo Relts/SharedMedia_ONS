@@ -12,9 +12,13 @@ local LSM = LibStub("LibSharedMedia-3.0")
 --   FONT
 -- -----
 
--- -------------------
---   SOUNDS
--- -------------------
+
+
+
+----------------------------------------------------------------
+-----------------------------SOUNDS-----------------------------
+----------------------------------------------------------------
+
 
 ----------- Numbers------------
 LSM:Register("sound", "|cff00ff001|r", [[Interface\Addons\SharedMedia_ONS\sound\01_1.mp3]])
@@ -222,55 +226,55 @@ LSM:Register("sound", "|cff00ff00Shadow|r", [[Interface\Addons\SharedMedia_ONS\s
 
 
 ----------- V1.1.7 Sounds -----------
--- Group Soak
--- Lightening
--- Lightening Soak
--- Middle
--- Positive
--- Negative
--- Inversion
--- Inverted
--- Group
--- Frontal
--- Dance
--- Dance Soon
--- Magnet
--- Grip
--- Grip on Me
--- Break Eggs
--- Eggs
--- Staff
--- Staff Spawning
--- Breath
--- Breath Soon
--- Boss Immune
--- Black Hole
--- Ascension
--- Ascension Soon
--- Detonation
--- Ball
--- New Ball
--- Essence
--- Breath
--- Breath Soon
--- Spear
--- Dodge Waves
--- Waves
--- Absorbs
--- Disarm
--- Bombs
--- Traps
--- Magma
--- Tantrum
--- Knockback
--- Break Wall
--- Corrupted
--- Mind Control
--- Barrage
--- Collect
--- Get Out
--- Get In
 
+LSM:Register("sound", "|cff00ff00Group Soak|r", [[Interface\Addons\SharedMedia_ONS\sound\186_GroupSoak.mp3]])
+LSM:Register("sound", "|cff00ff00Lightning|r", [[Interface\Addons\SharedMedia_ONS\sound\187_Lightning.mp3]])
+LSM:Register("sound", "|cff00ff00Lightning Soak|r", [[Interface\Addons\SharedMedia_ONS\sound\188_LightningSoak.mp3]])
+LSM:Register("sound", "|cff00ff00Middle|r", [[Interface\Addons\SharedMedia_ONS\sound\189_Middle.mp3]])
+LSM:Register("sound", "|cff00ff00Positive|r", [[Interface\Addons\SharedMedia_ONS\sound\190_Positive.mp3]])
+LSM:Register("sound", "|cff00ff00Negative|r", [[Interface\Addons\SharedMedia_ONS\sound\191_Negative.mp3]])
+LSM:Register("sound", "|cff00ff00Inversion|r", [[Interface\Addons\SharedMedia_ONS\sound\192_Inversion.mp3]])
+LSM:Register("sound", "|cff00ff00Inverted|r", [[Interface\Addons\SharedMedia_ONS\sound\193_Inverted.mp3]])
+LSM:Register("sound", "|cff00ff00Group|r", [[Interface\Addons\SharedMedia_ONS\sound\194_Group.mp3]])
+LSM:Register("sound", "|cff00ff00Frontal|r", [[Interface\Addons\SharedMedia_ONS\sound\195_Frontal.mp3]])
+LSM:Register("sound", "|cff00ff00Dance|r", [[Interface\Addons\SharedMedia_ONS\sound\196_Dance.mp3]])
+LSM:Register("sound", "|cff00ff00Dance Soon|r", [[Interface\Addons\SharedMedia_ONS\sound\197_DanceSoon.mp3]])
+LSM:Register("sound", "|cff00ff00Magnet|r", [[Interface\Addons\SharedMedia_ONS\sound\198_Magnet.mp3]])
+LSM:Register("sound", "|cff00ff00Grip|r", [[Interface\Addons\SharedMedia_ONS\sound\199_Grip.mp3]])
+LSM:Register("sound", "|cff00ff00Grip on Me|r", [[Interface\Addons\SharedMedia_ONS\sound\200_GripOnMe.mp3]])
+LSM:Register("sound", "|cff00ff00Break Eggs|r", [[Interface\Addons\SharedMedia_ONS\sound\201_BreakEggs.mp3]])
+LSM:Register("sound", "|cff00ff00Eggs|r", [[Interface\Addons\SharedMedia_ONS\sound\202_Eggs.mp3]])
+LSM:Register("sound", "|cff00ff00Staff|r", [[Interface\Addons\SharedMedia_ONS\sound\203_Staff.mp3]])
+LSM:Register("sound", "|cff00ff00Staff Spawning|r", [[Interface\Addons\SharedMedia_ONS\sound\204_StaffSpawning.mp3]])
+LSM:Register("sound", "|cff00ff00Breath|r", [[Interface\Addons\SharedMedia_ONS\sound\205_Breath.mp3]])
+LSM:Register("sound", "|cff00ff00Breath Soon|r", [[Interface\Addons\SharedMedia_ONS\sound\206_BreathSoon.mp3]])
+LSM:Register("sound", "|cff00ff00Boss Immune|r", [[Interface\Addons\SharedMedia_ONS\sound\207_BossImmune.mp3]])
+LSM:Register("sound", "|cff00ff00Black Hole|r", [[Interface\Addons\SharedMedia_ONS\sound\208_BlackHole.mp3]])
+LSM:Register("sound", "|cff00ff00Ascension|r", [[Interface\Addons\SharedMedia_ONS\sound\209_Ascension.mp3]])
+LSM:Register("sound", "|cff00ff00Ascension Soon|r", [[Interface\Addons\SharedMedia_ONS\sound\210_AscensionSoon.mp3]])
+LSM:Register("sound", "|cff00ff00Detonation|r", [[Interface\Addons\SharedMedia_ONS\sound\211_Detonation.mp3]])
+LSM:Register("sound", "|cff00ff00Ball|r", [[Interface\Addons\SharedMedia_ONS\sound\212_Ball.mp3]])
+LSM:Register("sound", "|cff00ff00New Ball|r", [[Interface\Addons\SharedMedia_ONS\sound\213_NewBall.mp3]])
+LSM:Register("sound", "|cff00ff00Essence|r", [[Interface\Addons\SharedMedia_ONS\sound\214_Essence.mp3]])
+LSM:Register("sound", "|cff00ff00Spear|r", [[Interface\Addons\SharedMedia_ONS\sound\215_Spear.mp3]])
+LSM:Register("sound", "|cff00ff00Dodge Waves|r", [[Interface\Addons\SharedMedia_ONS\sound\216_DodgeWaves.mp3]])
+LSM:Register("sound", "|cff00ff00Waves|r", [[Interface\Addons\SharedMedia_ONS\sound\217_Waves.mp3]])
+LSM:Register("sound", "|cff00ff00Absorbs|r", [[Interface\Addons\SharedMedia_ONS\sound\218_Absorbs.mp3]])
+LSM:Register("sound", "|cff00ff00Disarm|r", [[Interface\Addons\SharedMedia_ONS\sound\219_Disarm.mp3]])
+LSM:Register("sound", "|cff00ff00Bombs|r", [[Interface\Addons\SharedMedia_ONS\sound\220_Bombs.mp3]])
+LSM:Register("sound", "|cff00ff00Traps|r", [[Interface\Addons\SharedMedia_ONS\sound\221_Traps.mp3]])
+LSM:Register("sound", "|cff00ff00Magma|r", [[Interface\Addons\SharedMedia_ONS\sound\222_Magma.mp3]])
+LSM:Register("sound", "|cff00ff00Tantrum|r", [[Interface\Addons\SharedMedia_ONS\sound\223_Tantrum.mp3]])
+LSM:Register("sound", "|cff00ff00Knockback|r", [[Interface\Addons\SharedMedia_ONS\sound\224_Knockback.mp3]])
+LSM:Register("sound", "|cff00ff00Break Wall|r", [[Interface\Addons\SharedMedia_ONS\sound\225_BreakWall.mp3]])
+LSM:Register("sound", "|cff00ff00Corrupted|r", [[Interface\Addons\SharedMedia_ONS\sound\226_Corrupted.mp3]])
+LSM:Register("sound", "|cff00ff00Mind Control|r", [[Interface\Addons\SharedMedia_ONS\sound\227_MindControl.mp3]])
+LSM:Register("sound", "|cff00ff00Barrage|r", [[Interface\Addons\SharedMedia_ONS\sound\228_Barrage.mp3]])
+LSM:Register("sound", "|cff00ff00Collect|r", [[Interface\Addons\SharedMedia_ONS\sound\229_Collect.mp3]])
+LSM:Register("sound", "|cff00ff00Get Out|r", [[Interface\Addons\SharedMedia_ONS\sound\230_GetOut.mp3]])
+LSM:Register("sound", "|cff00ff00Get In|r", [[Interface\Addons\SharedMedia_ONS\sound\231_GetIn.mp3]])
+
+----------- V1.1.8 Sounds -----------
 
 
 --------- Random Sounds --------
@@ -281,9 +285,8 @@ LSM:Register("sound", "|cff55ee55Mega Pint|r", [[Interface\Addons\SharedMedia_ON
 LSM:Register("sound", "|cff55ee55Daddy Chill|r", [[Interface\Addons\SharedMedia_ONS\sound\Z5_DaddyChill.mp3]])
 LSM:Register("sound", "|cff55ee55Taa Daa|r", [[Interface\Addons\SharedMedia_ONS\sound\Z6_TaDa.mp3]])
 LSM:Register("sound", "|cff55ee55Zelda Chest|r", [[Interface\Addons\SharedMedia_ONS\sound\Z7_ZeldaChest.mp3]])
-
--- Pedro Song
--- Surf Song
+LSM:Register("sound", "|cff55ee55Pedro|r", [[Interface\Addons\SharedMedia_ONS\sound\Z8_Pedro.mp3]])
+LSM:Register("sound", "|cff55ee55Surf Bird|r", [[Interface\Addons\SharedMedia_ONS\sound\Z9_SurfBird.mp3]])
 
 
 -- TODO - Create Categories for all of the sounds so they can easily be searched in game.
