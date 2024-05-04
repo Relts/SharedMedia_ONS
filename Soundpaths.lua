@@ -275,6 +275,11 @@ LSM:Register("sound", "|cff00ff00Get Out|r", [[Interface\Addons\SharedMedia_ONS\
 LSM:Register("sound", "|cff00ff00Get In|r", [[Interface\Addons\SharedMedia_ONS\sound\231_GetIn.mp3]])
 
 ----------- V1.1.9 Sounds -----------
+-- Go Far
+-- Far Away
+-- Place Far
+-- Soak Soon
+-- Soak Next
 
 
 --------- Random Sounds --------
