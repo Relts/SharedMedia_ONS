@@ -280,6 +280,13 @@ LSM:Register("sound", "|cff00ff00Get In|r", [[Interface\Addons\SharedMedia_ONS\s
 -- Place Far
 -- Soak Soon
 -- Soak Next
+-- Volcanic Heart
+-- Volcanic
+-- Raid Damage
+-- Big Aoe
+-- Big Aoe Soon
+-- Fully Buffed
+-- All Stacks
 
 
 --------- Random Sounds --------
@@ -292,6 +299,7 @@ LSM:Register("sound", "|cff55ee55Taa Daa|r", [[Interface\Addons\SharedMedia_ONS\
 LSM:Register("sound", "|cff55ee55Zelda Chest|r", [[Interface\Addons\SharedMedia_ONS\sound\Z7_ZeldaChest.mp3]])
 LSM:Register("sound", "|cff55ee55Pedro|r", [[Interface\Addons\SharedMedia_ONS\sound\Z8_Pedro.mp3]])
 LSM:Register("sound", "|cff55ee55Surf Bird|r", [[Interface\Addons\SharedMedia_ONS\sound\Z9_SurfBird.mp3]])
+LSM:Register("sound", "|cff55ee55Another One|r", [[Interface\Addons\SharedMedia_ONS\sound\Z10_AnotherOne.mp3]])
 
 
 -- TODO - Create Categories for all of the sounds so they can easily be searched in game.
