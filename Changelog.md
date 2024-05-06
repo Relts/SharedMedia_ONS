@@ -1,3 +1,8 @@
+# Version 1.1.9
+
+- New Sounds Added
+- New Graphics Added
+
 # Version 1.1.8
 
 - New Sounds Added

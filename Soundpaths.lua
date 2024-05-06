@@ -275,18 +275,19 @@ LSM:Register("sound", "|cff00ff00Get Out|r", [[Interface\Addons\SharedMedia_ONS\
 LSM:Register("sound", "|cff00ff00Get In|r", [[Interface\Addons\SharedMedia_ONS\sound\231_GetIn.mp3]])
 
 ----------- V1.1.9 Sounds -----------
--- Go Far
--- Far Away
--- Place Far
--- Soak Soon
--- Soak Next
--- Volcanic Heart
--- Volcanic
--- Raid Damage
--- Big Aoe
--- Big Aoe Soon
--- Fully Buffed
--- All Stacks
+LSM:Register("sound", "|cff00ff00Go Far|r", [[Interface\Addons\SharedMedia_ONS\sound\232_GoFar.mp3]])
+LSM:Register("sound", "|cff00ff00Far Away|r", [[Interface\Addons\SharedMedia_ONS\sound\233_FarAway.mp3]])
+LSM:Register("sound", "|cff00ff00Place Far|r", [[Interface\Addons\SharedMedia_ONS\sound\234_PlaceFar.mp3]])
+LSM:Register("sound", "|cff00ff00Soak Soon|r", [[Interface\Addons\SharedMedia_ONS\sound\235_SoakSoon.mp3]])
+LSM:Register("sound", "|cff00ff00Soak Next|r", [[Interface\Addons\SharedMedia_ONS\sound\236_SoakNext.mp3]])
+LSM:Register("sound", "|cff00ff00Volcanic Heart|r", [[Interface\Addons\SharedMedia_ONS\sound\237_VolcanicHeart.mp3]])
+LSM:Register("sound", "|cff00ff00Volcanic|r", [[Interface\Addons\SharedMedia_ONS\sound\238_Volcanic.mp3]])
+LSM:Register("sound", "|cff00ff00Raid Damage|r", [[Interface\Addons\SharedMedia_ONS\sound\239_RaidDamage.mp3]])
+LSM:Register("sound", "|cff00ff00Big Aoe|r", [[Interface\Addons\SharedMedia_ONS\sound\240_BigAoe.mp3]])
+LSM:Register("sound", "|cff00ff00Big Aoe Soon|r", [[Interface\Addons\SharedMedia_ONS\sound\241_BigAoeSoon.mp3]])
+LSM:Register("sound", "|cff00ff00Fully Buffed|r", [[Interface\Addons\SharedMedia_ONS\sound\242_FullyBuffed.mp3]])
+LSM:Register("sound", "|cff00ff00All Stacks|r", [[Interface\Addons\SharedMedia_ONS\sound\243_AllStacks.mp3]])
+LSM:Register("sound", "|cff00ff00Max Stacks|r", [[Interface\Addons\SharedMedia_ONS\sound\244_MaxStacks.mp3]])
 
 
 --------- Random Sounds --------
@@ -300,6 +301,7 @@ LSM:Register("sound", "|cff55ee55Zelda Chest|r", [[Interface\Addons\SharedMedia_
 LSM:Register("sound", "|cff55ee55Pedro|r", [[Interface\Addons\SharedMedia_ONS\sound\Z8_Pedro.mp3]])
 LSM:Register("sound", "|cff55ee55Surf Bird|r", [[Interface\Addons\SharedMedia_ONS\sound\Z9_SurfBird.mp3]])
 LSM:Register("sound", "|cff55ee55Another One|r", [[Interface\Addons\SharedMedia_ONS\sound\Z10_AnotherOne.mp3]])
+LSM:Register("sound", "|cff55ee55Coffin Dance|r", [[Interface\Addons\SharedMedia_ONS\sound\Z11_CoffinDance.mp3]])
 
 
 -- TODO - Create Categories for all of the sounds so they can easily be searched in game.
