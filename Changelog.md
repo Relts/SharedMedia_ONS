@@ -2,6 +2,7 @@
 
 - Addon Name Change
 - New Sounds Added
+- Toc Bump
 
 # Version 1.1.10
 
