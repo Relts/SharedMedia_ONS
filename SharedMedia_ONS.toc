@@ -1,8 +1,8 @@
-## Interface: 100207
-## Title: |cFFFFFF00<ONS> - Media Pack |r 
+## Interface: 100207,110000,110002
+## Title: |cFFFFFF00One Night Stand - Media Pack |r 
 ## IconTexture: Interface\AddOns\SharedMedia_ONS\assets\onsIcon.blp
 ## Notes: A media pack for ONS addons.
-## Version: 1.1.10
+## Version: 1.1.11
 ## X-Curse-Project-ID: 960094
 
 libs\LibStub\LibStub.lua

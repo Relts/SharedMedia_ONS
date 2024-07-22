@@ -1,3 +1,8 @@
+# Version 1.1.11
+
+- Addon Name Change
+- New Sounds Added
+
 # Version 1.1.10
 
 - Toc Bump

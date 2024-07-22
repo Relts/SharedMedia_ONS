@@ -1,11 +1,31 @@
 {
-    "workbench.colorCustomizations": {
-        "sash.hoverBorder": "#a44513",
-        "commandCenter.border": "#e7e7e799",
-        "titleBar.activeBackground": "#76320e",
-        "titleBar.activeForeground": "#e7e7e7",
-        "titleBar.inactiveBackground": "#76320e99",
-        "titleBar.inactiveForeground": "#e7e7e799"
-    },
-    "peacock.color": "#76320e"
+  "workbench.colorCustomizations": {
+    "sash.hoverBorder": "#a44513",
+    "commandCenter.border": "#e7e7e799",
+    "titleBar.activeBackground": "#76320e",
+    "titleBar.activeForeground": "#e7e7e7",
+    "titleBar.inactiveBackground": "#76320e99",
+    "titleBar.inactiveForeground": "#e7e7e799"
+  },
+  "peacock.color": "#76320e",
+  "Lua.diagnostics.globals": [
+    "assert",
+    "error",
+    "loadstring",
+    "setmetatable",
+    "rawset",
+    "rawget",
+    "next",
+    "select",
+    "pairs",
+    "type",
+    "tostring",
+    "getfenv",
+    "_G",
+    "tonumber",
+    "string",
+    "rawequal",
+    "pcall",
+    "print"
+  ]
 }

@@ -289,6 +289,22 @@ LSM:Register("sound", "|cff00ff00Fully Buffed|r", [[Interface\Addons\SharedMedia
 LSM:Register("sound", "|cff00ff00All Stacks|r", [[Interface\Addons\SharedMedia_ONS\sound\243_AllStacks.mp3]])
 LSM:Register("sound", "|cff00ff00Max Stacks|r", [[Interface\Addons\SharedMedia_ONS\sound\244_MaxStacks.mp3]])
 
+--------- v1.1.10 Sounds -----------
+-- Earthern Wall
+-- BOP
+-- Blessing of Protection
+-- Cocoon
+-- AOE Incoming
+-- Damage Reduction
+-- Fortitude
+-- Stay Away From Lines
+-- Stay Away From Others
+-- Watch your step
+-- Watch your feet
+-- Keep Moving
+-- Stay in the Circle
+-- Place Gate
+
 
 --------- Random Sounds --------
 LSM:Register("sound", "|cff55ee55Dark Souls Death|r", [[Interface\Addons\SharedMedia_ONS\sound\Z1_DarkSouls_Death.mp3]])
@@ -302,7 +318,11 @@ LSM:Register("sound", "|cff55ee55Pedro|r", [[Interface\Addons\SharedMedia_ONS\so
 LSM:Register("sound", "|cff55ee55Surf Bird|r", [[Interface\Addons\SharedMedia_ONS\sound\Z9_SurfBird.mp3]])
 LSM:Register("sound", "|cff55ee55Another One|r", [[Interface\Addons\SharedMedia_ONS\sound\Z10_AnotherOne.mp3]])
 LSM:Register("sound", "|cff55ee55Coffin Dance|r", [[Interface\Addons\SharedMedia_ONS\sound\Z11_CoffinDance.mp3]])
+LSM:Register("sound", "|cff55ee55Why are you running?|r",
+    [[Interface\Addons\SharedMedia_ONS\sound\Z12_WhyAreYouRunning.mp3]])
+LSM:Register("sound", "|cff55ee55Phasomo Van|r", [[Interface\Addons\SharedMedia_ONS\sound\Z13_PhasmoVan.mp3]])
 
+----------- Guild Meme Sounds --------
 
 -- TODO - Create Categories for all of the sounds so they can easily be searched in game.
 -- TODO - Add the in game Icon to the name of the markers.
