@@ -52,7 +52,7 @@ LSM:Register("sound", "|cff00ff00Backup|r", [[Interface\Addons\SharedMedia_ONS\s
 LSM:Register("sound", "|cff00ff00Bait|r", [[Interface\Addons\SharedMedia_ONS\sound\26_Bait.mp3]])
 LSM:Register("sound", "|cff00ff00Beam|r", [[Interface\Addons\SharedMedia_ONS\sound\27_Beam.mp3]])
 LSM:Register("sound", "|cff00ff00Bloodlust|r", [[Interface\Addons\SharedMedia_ONS\sound\28_BloodLust.mp3]])
--- LSM:Register("sound", "|cff00ff00Blue|r", [[Interface\Addons\SharedMedia_ONS\sound\29_Blue.mp3]]) -- REVIEW duplicate sound name check for errors in game
+-- LSM:Register("sound", "|cff00ff00Blue|r", [[Interface\Addons\SharedMedia_ONS\sound\29_Blue.mp3]])
 LSM:Register("sound", "|cff00ff00Boss|r", [[Interface\Addons\SharedMedia_ONS\sound\30_Boss.mp3]])
 LSM:Register("sound", "|cff00ff00Break|r", [[Interface\Addons\SharedMedia_ONS\sound\31_Break.mp3]])
 LSM:Register("sound", "|cff00ff00Buff|r", [[Interface\Addons\SharedMedia_ONS\sound\32_Buff.mp3]])
@@ -162,12 +162,11 @@ LSM:Register("sound", "|cff00ff00Cheeky Rogue|r", [[Interface\Addons\SharedMedia
 --------- V1.1.2 Sounds -----------
 LSM:Register("sound", "|cff00ff00Peks Sexy|r", [[Interface\Addons\SharedMedia_ONS\sound\130_SexyMan.mp3]])
 LSM:Register("sound", "|cff00ff00Peks Fire|r", [[Interface\Addons\SharedMedia_ONS\sound\131_HotFire.mp3]])
-LSM:Register("sound", "|cff00ff00Fox No|r", [[Interface\Addons\SharedMedia_ONS\sound\132_FoxNoo.mp3]])
+-- LSM:Register("sound", "|cff00ff00Fox No|r", [[Interface\Addons\SharedMedia_ONS\sound\132_FoxNoo.mp3]])
 LSM:Register("sound", "|cff00ff00Left|r", [[Interface\Addons\SharedMedia_ONS\sound\133_Left.mp3]])
 LSM:Register("sound", "|cff00ff00Right|r", [[Interface\Addons\SharedMedia_ONS\sound\134_Right.mp3]])
 
 --------- V1.1.4 Sounds -----------
--- V1.1.4 Sounds
 LSM:Register("sound", "|cff00ff00Pushback|r", [[Interface\Addons\SharedMedia_ONS\sound\135_Pushback.mp3]])
 LSM:Register("sound", "|cff00ff00Melee Soak|r", [[Interface\Addons\SharedMedia_ONS\sound\136_MeleeSoak.mp3]])
 LSM:Register("sound", "|cff00ff00Ranged Soak|r", [[Interface\Addons\SharedMedia_ONS\sound\137_RangedSoak.mp3]])
@@ -289,21 +288,65 @@ LSM:Register("sound", "|cff00ff00Fully Buffed|r", [[Interface\Addons\SharedMedia
 LSM:Register("sound", "|cff00ff00All Stacks|r", [[Interface\Addons\SharedMedia_ONS\sound\243_AllStacks.mp3]])
 LSM:Register("sound", "|cff00ff00Max Stacks|r", [[Interface\Addons\SharedMedia_ONS\sound\244_MaxStacks.mp3]])
 
---------- v1.1.10 Sounds -----------
--- Earthern Wall
--- BOP
--- Blessing of Protection
--- Cocoon
--- AOE Incoming
--- Damage Reduction
--- Fortitude
--- Stay Away From Lines
--- Stay Away From Others
--- Watch your step
--- Watch your feet
--- Keep Moving
--- Stay in the Circle
--- Place Gate
+
+--------- v1.1.12 Sounds -----------
+LSM:Register("sound", "|cff00ff00Max Stacks|r", [[Interface\Addons\SharedMedia_ONS\sound\244_MaxStacks.mp3]])
+LSM:Register("sound", "|cff00ff00Earthen Wall|r", [[Interface\Addons\SharedMedia_ONS\sound\255_EarthenWall.mp3]])
+LSM:Register("sound", "|cff00ff00BOP|r", [[Interface\Addons\SharedMedia_ONS\sound\256_BOP.mp3]])
+LSM:Register("sound", "|cff00ff00Blessing of Protection|r",
+    [[Interface\Addons\SharedMedia_ONS\sound\257_BlessingOfProtection.mp3]])
+LSM:Register("sound", "|cff00ff00Cocoon|r", [[Interface\Addons\SharedMedia_ONS\sound\258_Cocoon.mp3]])
+LSM:Register("sound", "|cff00ff00AOE Incoming|r", [[Interface\Addons\SharedMedia_ONS\sound\259_AOEIncoming.mp3]])
+LSM:Register("sound", "|cff00ff00Damage Reduction|r", [[Interface\Addons\SharedMedia_ONS\sound\260_DamageReduction.mp3]])
+LSM:Register("sound", "|cff00ff00Fortitude|r", [[Interface\Addons\SharedMedia_ONS\sound\261_Fortitude.mp3]])
+LSM:Register("sound", "|cff00ff00Stay Away From Lines|r",
+    [[Interface\Addons\SharedMedia_ONS\sound\262_StayAwayFromLines.mp3]])
+LSM:Register("sound", "|cff00ff00Stay Away From Others|r",
+    [[Interface\Addons\SharedMedia_ONS\sound\263_StayAwayFromOthers.mp3]])
+LSM:Register("sound", "|cff00ff00Watch Your Step|r", [[Interface\Addons\SharedMedia_ONS\sound\264_WatchYourStep.mp3]])
+LSM:Register("sound", "|cff00ff00Watch Your Feet|r", [[Interface\Addons\SharedMedia_ONS\sound\265_WatchYourFeet.mp3]])
+LSM:Register("sound", "|cff00ff00Keep Moving|r", [[Interface\Addons\SharedMedia_ONS\sound\266_KeepMoving.mp3]])
+LSM:Register("sound", "|cff00ff00Stay In The Circle|r",
+    [[Interface\Addons\SharedMedia_ONS\sound\267_StayInTheCircle.mp3]])
+LSM:Register("sound", "|cff00ff00Place Gate|r", [[Interface\Addons\SharedMedia_ONS\sound\268_PlaceGate.mp3]])
+LSM:Register("sound", "|cff00ff00Rolling Acid|r", [[Interface\Addons\SharedMedia_ONS\sound\269_RollingAcid.mp3]])
+LSM:Register("sound", "|cff00ff00Infested|r", [[Interface\Addons\SharedMedia_ONS\sound\270_Infested.mp3]])
+LSM:Register("sound", "|cff00ff00Infested Soon|r", [[Interface\Addons\SharedMedia_ONS\sound\271_InfestedSoon.mp3]])
+LSM:Register("sound", "|cff00ff00Infested Spawn|r", [[Interface\Addons\SharedMedia_ONS\sound\272_InfestedSpawn.mp3]])
+LSM:Register("sound", "|cff00ff00Strands|r", [[Interface\Addons\SharedMedia_ONS\sound\273_Strands.mp3]])
+LSM:Register("sound", "|cff00ff00Experimental Dosage|r",
+    [[Interface\Addons\SharedMedia_ONS\sound\274_ExperimentalDosage.mp3]])
+LSM:Register("sound", "|cff00ff00Dosage|r", [[Interface\Addons\SharedMedia_ONS\sound\275_Dosage.mp3]])
+LSM:Register("sound", "|cff00ff00Regicide|r", [[Interface\Addons\SharedMedia_ONS\sound\276_Regicide.mp3]])
+LSM:Register("sound", "|cff00ff00Twilight Masacre|r", [[Interface\Addons\SharedMedia_ONS\sound\277_TwilightMasacre.mp3]])
+LSM:Register("sound", "|cff00ff00Masacre|r", [[Interface\Addons\SharedMedia_ONS\sound\278_Masacre.mp3]])
+LSM:Register("sound", "|cff00ff00Assasination|r", [[Interface\Addons\SharedMedia_ONS\sound\279_Assasination.mp3]])
+LSM:Register("sound", "|cff00ff00Phase Blades|r", [[Interface\Addons\SharedMedia_ONS\sound\280_PhaseBlades.mp3]])
+LSM:Register("sound", "|cff00ff00Blades|r", [[Interface\Addons\SharedMedia_ONS\sound\281_Blades.mp3]])
+LSM:Register("sound", "|cff00ff00Decimate|r", [[Interface\Addons\SharedMedia_ONS\sound\282_Decimate.mp3]])
+LSM:Register("sound", "|cff00ff00Queens Bane|r", [[Interface\Addons\SharedMedia_ONS\sound\283_QueensBane.mp3]])
+LSM:Register("sound", "|cff00ff00Queens Bane A|r", [[Interface\Addons\SharedMedia_ONS\sound\284_QueensBaneA.mp3]])
+LSM:Register("sound", "|cff00ff00Queens Bane B|r", [[Interface\Addons\SharedMedia_ONS\sound\285_QueensBaneB.mp3]])
+LSM:Register("sound", "|cff00ff00Stay Away|r", [[Interface\Addons\SharedMedia_ONS\sound\286_StayAway.mp3]])
+LSM:Register("sound", "|cff00ff00Macro|r", [[Interface\Addons\SharedMedia_ONS\sound\287_Macro.mp3]])
+LSM:Register("sound", "|cff00ff00Press Macro|r", [[Interface\Addons\SharedMedia_ONS\sound\288_PressMacro.mp3]])
+LSM:Register("sound", "|cff00ff00Macro Now|r", [[Interface\Addons\SharedMedia_ONS\sound\289_MacroNow.mp3]])
+LSM:Register("sound", "|cff00ff00Maximum Stacks|r", [[Interface\Addons\SharedMedia_ONS\sound\290_MaximumStacks.mp3]])
+LSM:Register("sound", "|cff00ff00Spinnerets|r", [[Interface\Addons\SharedMedia_ONS\sound\291_Spinnerets.mp3]])
+LSM:Register("sound", "|cff00ff00Spinnerets Strands|r",
+    [[Interface\Addons\SharedMedia_ONS\sound\292_SpinneretsStrands.mp3]])
+LSM:Register("sound", "|cff00ff00Tethered|r", [[Interface\Addons\SharedMedia_ONS\sound\293_Tethered.mp3]])
+LSM:Register("sound", "|cff00ff00Tether|r", [[Interface\Addons\SharedMedia_ONS\sound\294_Tether.mp3]])
+LSM:Register("sound", "|cff00ff00Tether On You|r", [[Interface\Addons\SharedMedia_ONS\sound\295_TetherOnYou.mp3]])
+LSM:Register("sound", "|cff00ff00Webs|r", [[Interface\Addons\SharedMedia_ONS\sound\296_Webs.mp3]])
+LSM:Register("sound", "|cff00ff00Webbed|r", [[Interface\Addons\SharedMedia_ONS\sound\297_Webbed.mp3]])
+LSM:Register("sound", "|cff00ff00Stay In Circle|r", [[Interface\Addons\SharedMedia_ONS\sound\298_StayInCircle.mp3]])
+LSM:Register("sound", "|cff00ff00Peks Woo|r", [[Interface\Addons\SharedMedia_ONS\sound\299_PeksWoo.mp3]])
+LSM:Register("sound", "|cff00ff00Morg You Suck|r", [[Interface\Addons\SharedMedia_ONS\sound\300_MorgYouSuck.mp3]])
+LSM:Register("sound", "|cff00ff00Peks Clip Deeze Nuts|r",
+    [[Interface\Addons\SharedMedia_ONS\sound\301_PeksClipDeezeNuts.mp3]])
+LSM:Register("sound", "|cff00ff00Get A Rae From Me|r", [[Interface\Addons\SharedMedia_ONS\sound\302_GetARaeFromMe.mp3]])
+
 
 
 --------- Random Sounds --------

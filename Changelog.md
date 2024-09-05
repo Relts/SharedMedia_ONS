@@ -1,3 +1,11 @@
+# Version 1.1.12
+
+- Added new sounds for Nerub'ar Palace.
+- Added Meme Sounds of the guild.
+- Removed Duplicate Sounds.
+- Removed none relevant sounds.
+- Removed old interface build versions.
+
 # Version 1.1.11
 
 - Addon Name Change
