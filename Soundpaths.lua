@@ -348,6 +348,11 @@ LSM:Register("sound", "|cff00ff00Peks Clip Deeze Nuts|r",
 LSM:Register("sound", "|cff00ff00Get A Rae From Me|r", [[Interface\Addons\SharedMedia_ONS\sound\302_GetARaeFromMe.mp3]])
 
 
+--------- Version 1.1.14 Sounds ------------
+
+
+
+
 
 --------- Random Sounds --------
 LSM:Register("sound", "|cff55ee55Dark Souls Death|r", [[Interface\Addons\SharedMedia_ONS\sound\Z1_DarkSouls_Death.mp3]])

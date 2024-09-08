@@ -1,3 +1,7 @@
+# Version 1.1.13
+
+- Fixed broken sound paths.
+
 # Version 1.1.12
 
 - Added new sounds for Nerub'ar Palace.
