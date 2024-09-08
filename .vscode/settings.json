@@ -8,7 +8,9 @@
     "titleBar.inactiveForeground": "#e7e7e799"
   },
   "peacock.color": "#76320e",
-  "Lua.diagnostics.globals": ["LibStub"],
+  "Lua.diagnostics.globals": [
+    "LibStub"
+  ],
   "Lua.runtime.version": "Lua 5.1",
   "Lua.runtime.builtin": {
     "basic": "disable",
