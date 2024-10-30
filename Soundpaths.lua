@@ -291,7 +291,7 @@ LSM:Register("sound", "|cff00ff00Max Stacks|r", [[Interface\Addons\SharedMedia_O
 
 --------- v1.1.12 Sounds -----------
 LSM:Register("sound", "|cff00ff00Max Stacks|r", [[Interface\Addons\SharedMedia_ONS\sound\244_MaxStacks.mp3]])
-LSM:Register("sound", "|cff00ff00Earthen Wall|r", [[Interface\Addons\SharedMedia_ONS\sound\255_EarthenWall.mp3]])
+LSM:Register("sound", "|cff00ff00Earthen Wall|r", [[Interface\Addons\SharedMedia_ONS\sound\255_EarthernWall.mp3]]) --FIXME: Trigger is not working in game check file path
 LSM:Register("sound", "|cff00ff00BOP|r", [[Interface\Addons\SharedMedia_ONS\sound\256_BOP.mp3]])
 LSM:Register("sound", "|cff00ff00Blessing of Protection|r",
     [[Interface\Addons\SharedMedia_ONS\sound\257_BlessingOfProtection.mp3]])
