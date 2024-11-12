@@ -369,6 +369,7 @@ LSM:Register("sound", "|cff55ee55Coffin Dance|r", [[Interface\Addons\SharedMedia
 LSM:Register("sound", "|cff55ee55Why are you running?|r",
     [[Interface\Addons\SharedMedia_ONS\sound\Z12_WhyAreYouRunning.mp3]])
 LSM:Register("sound", "|cff55ee55Phasomo Van|r", [[Interface\Addons\SharedMedia_ONS\sound\Z13_PhasmoVan.mp3]])
+LSM:Register("sound", "|cff55ee55UwU|r", [[Interface\Addons\SharedMedia_ONS\sound\Z14_UwU.mp3]])
 
 ----------- Guild Meme Sounds --------
 
