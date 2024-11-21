@@ -1,3 +1,7 @@
+# Version 1.1.16
+
+- Meme Images Added
+
 # Version 1.1.15
 
 - UwU Added
