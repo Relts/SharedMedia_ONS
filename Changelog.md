@@ -1,3 +1,8 @@
+# Version 1.1.18
+
+- New Sounds Added for Queen Ansurek
+- Meme Images Added
+
 # Version 1.1.17
 
 - TOC Bump

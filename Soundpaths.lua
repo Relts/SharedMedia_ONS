@@ -348,10 +348,49 @@ LSM:Register("sound", "|cff00ff00Peks Clip Deeze Nuts|r",
 LSM:Register("sound", "|cff00ff00Get A Rae From Me|r", [[Interface\Addons\SharedMedia_ONS\sound\302_GetARaeFromMe.mp3]])
 
 
---------- Version 1.1.14 Sounds ------------
+--------- Version 1.1.18 Sounds ------------
 
-
-
+LSM:Register("sound", "|cff00ff00Portal|r", [[Interface\Addons\SharedMedia_ONS\sound\303_Portal.mp3]])
+LSM:Register("sound", "|cff00ff00Next Portal|r", [[Interface\Addons\SharedMedia_ONS\sound\304_NextPortal.mp3]])
+LSM:Register("sound", "|cff00ff00Portal Soon|r", [[Interface\Addons\SharedMedia_ONS\sound\305_PortalSoon.mp3]])
+LSM:Register("sound", "|cff00ff00Waves|r", [[Interface\Addons\SharedMedia_ONS\sound\306_Waves.mp3]])
+LSM:Register("sound", "|cff00ff00Waves Soon|r", [[Interface\Addons\SharedMedia_ONS\sound\307_WavesSoon.mp3]])
+LSM:Register("sound", "|cff00ff00Defs Soon|r", [[Interface\Addons\SharedMedia_ONS\sound\308_DefsSoon.mp3]])
+LSM:Register("sound", "|cff00ff00Blades Soon|r", [[Interface\Addons\SharedMedia_ONS\sound\309_BladesSoon.mp3]])
+LSM:Register("sound", "|cff00ff00Dodge Blades|r", [[Interface\Addons\SharedMedia_ONS\sound\310_DodgeBlades.mp3]])
+LSM:Register("sound", "|cff00ff00Back Up|r", [[Interface\Addons\SharedMedia_ONS\sound\311_BackUp.mp3]])
+LSM:Register("sound", "|cff00ff00Backup Soon|r", [[Interface\Addons\SharedMedia_ONS\sound\312_BackupSoon.mp3]])
+LSM:Register("sound", "|cff00ff00Backup Now|r", [[Interface\Addons\SharedMedia_ONS\sound\313_BackupNow.mp3]])
+LSM:Register("sound", "|cff00ff00Infest Soon|r", [[Interface\Addons\SharedMedia_ONS\sound\313_InfestSoon.mp3]])
+LSM:Register("sound", "|cff00ff00Infest|r", [[Interface\Addons\SharedMedia_ONS\sound\314_Infest.mp3]])
+LSM:Register("sound", "|cff00ff00Liquefy|r", [[Interface\Addons\SharedMedia_ONS\sound\315_Liquefy.mp3]])
+LSM:Register("sound", "|cff00ff00Chains Incoming|r", [[Interface\Addons\SharedMedia_ONS\sound\316_ChainsIncoming.mp3]])
+LSM:Register("sound", "|cff00ff00Chains Soon|r", [[Interface\Addons\SharedMedia_ONS\sound\317_ChainsSoon.mp3]])
+LSM:Register("sound", "|cff00ff00Move To Skull|r", [[Interface\Addons\SharedMedia_ONS\sound\318_MoveToSkull.mp3]])
+LSM:Register("sound", "|cff00ff00Move To Cross|r", [[Interface\Addons\SharedMedia_ONS\sound\319_MoveToCross.mp3]])
+LSM:Register("sound", "|cff00ff00Move To Moon|r", [[Interface\Addons\SharedMedia_ONS\sound\320_MoveToMoon.mp3]])
+LSM:Register("sound", "|cff00ff00Move To Star|r", [[Interface\Addons\SharedMedia_ONS\sound\321_MoveToStar.mp3]])
+LSM:Register("sound", "|cff00ff00Move To Circle|r", [[Interface\Addons\SharedMedia_ONS\sound\322_MoveToCircle.mp3]])
+LSM:Register("sound", "|cff00ff00Move To Triangle|r", [[Interface\Addons\SharedMedia_ONS\sound\323_MoveToTriangle.mp3]])
+LSM:Register("sound", "|cff00ff00Move To Square|r", [[Interface\Addons\SharedMedia_ONS\sound\324_MoveToSquare.mp3]])
+LSM:Register("sound", "|cff00ff00Move To Diamond|r", [[Interface\Addons\SharedMedia_ONS\sound\325_MoveToDiamond.mp3]])
+LSM:Register("sound", "|cff00ff00Stack On Skull|r", [[Interface\Addons\SharedMedia_ONS\sound\326_StackOnSkull.mp3]])
+LSM:Register("sound", "|cff00ff00Stack On Cross|r", [[Interface\Addons\SharedMedia_ONS\sound\327_StackOnCross.mp3]])
+LSM:Register("sound", "|cff00ff00Stack On Moon|r", [[Interface\Addons\SharedMedia_ONS\sound\328_StackOnMoon.mp3]])
+LSM:Register("sound", "|cff00ff00Stack On Star|r", [[Interface\Addons\SharedMedia_ONS\sound\329_StackOnStar.mp3]])
+LSM:Register("sound", "|cff00ff00Stack On Circle|r", [[Interface\Addons\SharedMedia_ONS\sound\330_StackOnCircle.mp3]])
+LSM:Register("sound", "|cff00ff00Stack On Triangle|r", [[Interface\Addons\SharedMedia_ONS\sound\331_StackOnTriangle.mp3]])
+LSM:Register("sound", "|cff00ff00Stack On Square|r", [[Interface\Addons\SharedMedia_ONS\sound\332_StackOnSquare.mp3]])
+LSM:Register("sound", "|cff00ff00Stack On Diamond|r", [[Interface\Addons\SharedMedia_ONS\sound\333_StackOnDiamond.mp3]])
+LSM:Register("sound", "|cff00ff00Pick Up Essence|r", [[Interface\Addons\SharedMedia_ONS\sound\334_PickUpEssence.mp3]])
+LSM:Register("sound", "|cff00ff00Pick Up Essence Soon|r",
+    [[Interface\Addons\SharedMedia_ONS\sound\335_PickUpEssenceSoon.mp3]])
+LSM:Register("sound", "|cff00ff00Pick Up|r", [[Interface\Addons\SharedMedia_ONS\sound\336_PickUp.mp3]])
+LSM:Register("sound", "|cff00ff00Pick Up Soon|r", [[Interface\Addons\SharedMedia_ONS\sound\337_PickUpSoon.mp3]])
+LSM:Register("sound", "|cff00ff00Popping|r", [[Interface\Addons\SharedMedia_ONS\sound\338_Popping.mp3]])
+LSM:Register("sound", "|cff00ff00You Are Popping|r", [[Interface\Addons\SharedMedia_ONS\sound\339_YouArePopping.mp3]])
+LSM:Register("sound", "|cff00ff00Popping Soon|r", [[Interface\Addons\SharedMedia_ONS\sound\340_PoppingSoon.mp3]])
+LSM:Register("sound", "|cff00ff00Popping Next|r", [[Interface\Addons\SharedMedia_ONS\sound\341_PoppingNext.mp3]])
 
 
 --------- Random Sounds --------
@@ -375,3 +414,12 @@ LSM:Register("sound", "|cff55ee55UwU|r", [[Interface\Addons\SharedMedia_ONS\soun
 
 -- TODO - Create Categories for all of the sounds so they can easily be searched in game.
 -- TODO - Add the in game Icon to the name of the markers.
+
+-- {rt1} - Skull
+-- {rt2} - Cross
+-- {rt3} - Square
+-- {rt4} - Moon
+-- {rt5} - Triangle
+-- {rt6} - Diamond
+-- {rt7} - Circle
+-- {rt8} - Star
