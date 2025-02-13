@@ -393,6 +393,19 @@ LSM:Register("sound", "|cff00ff00Popping Soon|r", [[Interface\Addons\SharedMedia
 LSM:Register("sound", "|cff00ff00Popping Next|r", [[Interface\Addons\SharedMedia_ONS\sound\341_PoppingNext.mp3]])
 
 
+-- Version 1.1.19 Sounds --
+-- Oil
+-- Oil Soon
+-- Bike Soon
+-- Use Bike
+-- Vroom Vroom
+-- Engine Rev
+
+--TODO: add new sounds for patch 11.1
+
+
+
+
 --------- Random Sounds --------
 LSM:Register("sound", "|cff55ee55Dark Souls Death|r", [[Interface\Addons\SharedMedia_ONS\sound\Z1_DarkSouls_Death.mp3]])
 LSM:Register("sound", "|cff55ee55Skill Issue|r", [[Interface\Addons\SharedMedia_ONS\sound\Z2_SKillIssue.ogg]])
