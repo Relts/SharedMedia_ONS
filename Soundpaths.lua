@@ -393,7 +393,7 @@ LSM:Register("sound", "|cff00ff00Popping Soon|r", [[Interface\Addons\SharedMedia
 LSM:Register("sound", "|cff00ff00Popping Next|r", [[Interface\Addons\SharedMedia_ONS\sound\341_PoppingNext.mp3]])
 
 
--- Version 1.1.19 Sounds --
+-- Version 1.1.20 Sounds --
 -- Oil
 -- Oil Soon
 -- Bike Soon

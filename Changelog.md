@@ -1,3 +1,8 @@
+# Version 1.1.19
+
+- Toc Bump
+- Added addon categories to the .toc file
+
 # Version 1.1.18
 
 - New Sounds Added for Queen Ansurek
