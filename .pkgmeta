@@ -8,6 +8,7 @@ Libs/LibStub: https://repos.wowace.com/wow/libstub/trunk
 ignore:
   - "*.md"
   - .vscode
+  - .scripts
 
 manual-changelog:
   filename: Changelog.md
