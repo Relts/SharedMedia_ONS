@@ -323,16 +323,15 @@ LSM:Register("sound", "|cff00ff00Popping Next|r", [[Interface\Addons\SharedMedia
 
 
 -- Version 1.1.20 Sounds --
+
+
+-- Version 1.1.21 Sounds --
 -- Oil
 -- Oil Soon
 -- Bike Soon
 -- Use Bike
 -- Vroom Vroom
 -- Engine Rev
--- Mario Coin Sounds
--- Sonic Conin Sounds
--- Pacman Munch Sounds
--- Pacman Intro
 -- Zelda Rupee Sound
 -- Oil Soon
 -- Soak Oils
@@ -355,6 +354,20 @@ LSM:Register("sound", "|cff00ff00Popping Next|r", [[Interface\Addons\SharedMedia
 -- Polarity Switch
 
 --TODO: add new sounds for patch 11.1
+
+--------- Sound Effects ---------
+LSM:Register("sound", "|cff2af72aCoin Splash|r", [[Interface\Addons\SharedMedia_ONS\sound\soundEffects\coinSplash.mp3]])
+LSM:Register("sound", "|cff2af72aMario Coin|r", [[Interface\Addons\SharedMedia_ONS\sound\soundEffects\marioCoin.mp3]])
+LSM:Register("sound", "|cff2af72aPacman Death|r", [[Interface\Addons\SharedMedia_ONS\sound\soundEffects\pacmanDeath.mp3]])
+LSM:Register("sound", "|cff2af72aPacman Start|r", [[Interface\Addons\SharedMedia_ONS\sound\soundEffects\pacmanStart.mp3]])
+LSM:Register("sound", "|cff2af72aPacman Waka|r", [[Interface\Addons\SharedMedia_ONS\sound\soundEffects\pacmanWaka.mp3]])
+LSM:Register("sound", "|cff2af72aSonic Coin|r", [[Interface\Addons\SharedMedia_ONS\sound\soundEffects\sonicCoin.mp3]])
+LSM:Register("sound", "|cff2af72aSonic Coin Drop|r",
+    [[Interface\Addons\SharedMedia_ONS\sound\soundEffects\sonicCoinDrop.mp3]])
+LSM:Register("sound", "|cff2af72aZelda Coin|r", [[Interface\Addons\SharedMedia_ONS\sound\soundEffects\zeldaCoin.mp3]])
+
+
+
 
 --------- Random Sounds --------
 LSM:Register("sound", "|cff55ee55Dark Souls Death|r", [[Interface\Addons\SharedMedia_ONS\sound\Z1_DarkSouls_Death.mp3]])

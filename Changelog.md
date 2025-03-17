@@ -1,3 +1,8 @@
+# Version 1.1.20
+- THD Images
+- Sound Effects Added
+- Old Sounds Removed
+
 # Version 1.1.19
 
 - Toc Bump
