@@ -348,6 +348,15 @@ LSM:Register("sound", "|cff00ff00Lines|r", [[Interface\Addons\SharedMedia_ONS\so
 LSM:Register("sound", "|cff00ff00Absorbs|r", [[Interface\Addons\SharedMedia_ONS\sound\365_Absorbs.mp3]])
 LSM:Register("sound", "|cff00ff00Go Far|r", [[Interface\Addons\SharedMedia_ONS\sound\366_GoFar.mp3]])
 LSM:Register("sound", "|cff00ff00Coins Watch|r", [[Interface\Addons\SharedMedia_ONS\sound\367_CoinsWatch.mp3]])
+LSM:Register("sound", "|cff00ff00Coins Soon|r", [[Interface\Addons\SharedMedia_ONS\sound\368_CoinsSoon.mp3]])
+LSM:Register("sound", "|cff00ff00Coins Bait|r", [[Interface\Addons\SharedMedia_ONS\sound\369_CoinsBait.mp3]])
+LSM:Register("sound", "|cff00ff00Coins Returning|r", [[Interface\Addons\SharedMedia_ONS\sound\370_CoinsReturning.mp3]])
+LSM:Register("sound", "|cff00ff00Bait Amps|r", [[Interface\Addons\SharedMedia_ONS\sound\371_BaitAmps.mp3]])
+LSM:Register("sound", "|cff00ff00Pull|r", [[Interface\Addons\SharedMedia_ONS\sound\372_Pull.mp3]])
+LSM:Register("sound", "|cff00ff00Pull Soon|r", [[Interface\Addons\SharedMedia_ONS\sound\373_PullSoon.mp3]])
+LSM:Register("sound", "|cff00ff00Soak Mine|r", [[Interface\Addons\SharedMedia_ONS\sound\374_SoakMine.mp3]])
+LSM:Register("sound", "|cff00ff00Melee Pillar|r", [[Interface\Addons\SharedMedia_ONS\sound\375_MeleePillar.mp3]])
+LSM:Register("sound", "|cff00ff00Ranged Pillar|r", [[Interface\Addons\SharedMedia_ONS\sound\376_RangedPillar.mp3]])
 
 --------- Version 1.1.22 Sounds ------------
 ---
