@@ -321,37 +321,8 @@ LSM:Register("sound", "|cff00ff00You Are Popping|r", [[Interface\Addons\SharedMe
 LSM:Register("sound", "|cff00ff00Popping Soon|r", [[Interface\Addons\SharedMedia_ONS\sound\340_PoppingSoon.mp3]])
 LSM:Register("sound", "|cff00ff00Popping Next|r", [[Interface\Addons\SharedMedia_ONS\sound\341_PoppingNext.mp3]])
 
-
--- Version 1.1.20 Sounds --
-
-
--- Version 1.1.21 Sounds --
--- Oil
--- Oil Soon
--- Bike Soon
--- Use Bike
--- Vroom Vroom
--- Engine Rev
--- Zelda Rupee Sound
--- Oil Soon
--- Soak Oils
--- Stack Oils
--- Coins
--- Coin
--- Coins Incoming
--- Coin Buffed
--- Bombs Soon
--- Bombs Incoming
--- Magnets Next
--- Magnets
--- Magnets Soon
--- Magnets Incoming
--- Mines
--- Mines Soon
--- Mines Incoming
--- Bikes Soon
--- Polarity Shift
--- Polarity Switch
+--------- Version 1.1.21 Sounds ------------
+LSM:Register("sound", "|cff00ff00Popping Next|r", [[Interface\Addons\SharedMedia_ONS\sound\341_PoppingNext.mp3]])
 
 --TODO: add new sounds for patch 11.1
 
