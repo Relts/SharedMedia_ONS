@@ -322,9 +322,42 @@ LSM:Register("sound", "|cff00ff00Popping Soon|r", [[Interface\Addons\SharedMedia
 LSM:Register("sound", "|cff00ff00Popping Next|r", [[Interface\Addons\SharedMedia_ONS\sound\341_PoppingNext.mp3]])
 
 --------- Version 1.1.21 Sounds ------------
-LSM:Register("sound", "|cff00ff00Popping Next|r", [[Interface\Addons\SharedMedia_ONS\sound\341_PoppingNext.mp3]])
+LSM:Register("sound", "|cff00ff00Oil|r", [[Interface\Addons\SharedMedia_ONS\sound\342_Oil.mp3]])
+LSM:Register("sound", "|cff00ff00Oil Soon|r", [[Interface\Addons\SharedMedia_ONS\sound\343_OilSoon.mp3]])
+LSM:Register("sound", "|cff00ff00Bikes|r", [[Interface\Addons\SharedMedia_ONS\sound\344_Bikes.mp3]])
+LSM:Register("sound", "|cff00ff00Bikes Soon|r", [[Interface\Addons\SharedMedia_ONS\sound\345_BikesSoon.mp3]])
+LSM:Register("sound", "|cff00ff00Coins|r", [[Interface\Addons\SharedMedia_ONS\sound\346_Coins.mp3]])
+LSM:Register("sound", "|cff00ff00Coin Danger|r", [[Interface\Addons\SharedMedia_ONS\sound\347_CoinDanger.mp3]])
+LSM:Register("sound", "|cff00ff00Amplifier|r", [[Interface\Addons\SharedMedia_ONS\sound\348_Amplifier.mp3]])
+LSM:Register("sound", "|cff00ff00Barrels Soon|r", [[Interface\Addons\SharedMedia_ONS\sound\349_BarrelsSoon.mp3]])
+LSM:Register("sound", "|cff00ff00Bombs|r", [[Interface\Addons\SharedMedia_ONS\sound\350_Bombs.mp3]])
+LSM:Register("sound", "|cff00ff00Bombs Soon|r", [[Interface\Addons\SharedMedia_ONS\sound\351_BombsSoon.mp3]])
+LSM:Register("sound", "|cff00ff00Bombs Incoming|r", [[Interface\Addons\SharedMedia_ONS\sound\352_BombsIncoming.mp3]])
+LSM:Register("sound", "|cff00ff00Magnets|r", [[Interface\Addons\SharedMedia_ONS\sound\353_Magnets.mp3]])
+LSM:Register("sound", "|cff00ff00Magnets Incoming|r", [[Interface\Addons\SharedMedia_ONS\sound\354_MagnetsIncoming.mp3]])
+LSM:Register("sound", "|cff00ff00Mines|r", [[Interface\Addons\SharedMedia_ONS\sound\355_Mines.mp3]])
+LSM:Register("sound", "|cff00ff00Mines Soon|r", [[Interface\Addons\SharedMedia_ONS\sound\356_MinesSoon.mp3]])
+LSM:Register("sound", "|cff00ff00Mines Incoming|r", [[Interface\Addons\SharedMedia_ONS\sound\357_MinesIncoming.mp3]])
+LSM:Register("sound", "|cff00ff00Polarity Shift|r", [[Interface\Addons\SharedMedia_ONS\sound\358_PolarityShift.mp3]])
+LSM:Register("sound", "|cff00ff00Polarity Switch|r", [[Interface\Addons\SharedMedia_ONS\sound\359_PolaritySwitch.mp3]])
+LSM:Register("sound", "|cff00ff00Rockets|r", [[Interface\Addons\SharedMedia_ONS\sound\360_Rockets.mp3]])
+LSM:Register("sound", "|cff00ff00Soak One|r", [[Interface\Addons\SharedMedia_ONS\sound\361_SoakOne.mp3]])
+LSM:Register("sound", "|cff00ff00Soak Two|r", [[Interface\Addons\SharedMedia_ONS\sound\362_SoakTwo.mp3]])
+LSM:Register("sound", "|cff00ff00Group One|r", [[Interface\Addons\SharedMedia_ONS\sound\363_GroupOne.mp3]])
+LSM:Register("sound", "|cff00ff00Lines|r", [[Interface\Addons\SharedMedia_ONS\sound\364_Lines.mp3]])
+LSM:Register("sound", "|cff00ff00Absorbs|r", [[Interface\Addons\SharedMedia_ONS\sound\365_Absorbs.mp3]])
+LSM:Register("sound", "|cff00ff00Go Far|r", [[Interface\Addons\SharedMedia_ONS\sound\366_GoFar.mp3]])
+LSM:Register("sound", "|cff00ff00Coins Watch|r", [[Interface\Addons\SharedMedia_ONS\sound\367_CoinsWatch.mp3]])
 
---TODO: add new sounds for patch 11.1
+--------- Version 1.1.22 Sounds ------------
+---
+---
+---
+---
+---
+---
+---
+---
 
 --------- Sound Effects ---------
 LSM:Register("sound", "|cff2af72aCoin Splash|r", [[Interface\Addons\SharedMedia_ONS\sound\soundEffects\coinSplash.mp3]])
