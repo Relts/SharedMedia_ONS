@@ -358,7 +358,7 @@ LSM:Register("sound", "|cff00ff00Soak Mine|r", [[Interface\Addons\SharedMedia_ON
 LSM:Register("sound", "|cff00ff00Melee Pillar|r", [[Interface\Addons\SharedMedia_ONS\sound\375_MeleePillar.mp3]])
 LSM:Register("sound", "|cff00ff00Ranged Pillar|r", [[Interface\Addons\SharedMedia_ONS\sound\376_RangedPillar.mp3]])
 
---------- Version 1.1.22 Sounds ------------
+--------- Version 1.1.23 Sounds ------------
 ---
 ---
 ---

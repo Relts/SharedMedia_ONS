@@ -1,3 +1,9 @@
+# Version 1.1.23
+- Toc Bump
+
+# Version 1.1.22
+- More Raid Sounds Added
+
 # Version 1.1.21
 - Undermined Raid Sounds
 
