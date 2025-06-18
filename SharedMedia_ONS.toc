@@ -1,8 +1,8 @@
-## Interface: 110105
+## Interface: 110107
 ## Title: |cFFFFFF00One Night Stand - Media Pack |r 
 ## IconTexture: Interface\AddOns\SharedMedia_ONS\assets\onsIcon.blp
 ## Notes: A media pack for ONS addons.
-## Version: 1.1.23
+## Version: 1.1.24
 ## X-Curse-Project-ID: 960094
 ## Category-enUS: Media
 

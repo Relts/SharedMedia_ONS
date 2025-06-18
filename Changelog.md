@@ -1,3 +1,6 @@
+# Version 1.1.24
+- Toc Bump
+
 # Version 1.1.23
 - Toc Bump
 
