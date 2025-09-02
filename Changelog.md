@@ -1,6 +1,8 @@
+# Version 1.1.26
+- Added Boro Sounds.
+
 # Version 1.1.25
 - Toc Bump
-
 
 # Version 1.1.24
 - Toc Bump

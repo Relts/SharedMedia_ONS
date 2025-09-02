@@ -420,6 +420,23 @@ LSM:Register("sound", "|cff00ff00Viranyr Get Away|r", [[Interface\Addons\SharedM
 
 
 
+
+-- Boromir TPB Sounds --
+LSM:Register("sound", "|cffff00ffTPB Ask Me|r", [[Interface\Addons\SharedMedia_ONS\sound\tpb\TPB_Askme.mp3]])
+LSM:Register("sound", "|cffff00ffTPB Get Off The Stage|r",
+    [[Interface\Addons\SharedMedia_ONS\sound\tpb\TPB_GetOffTheStage.mp3]])
+LSM:Register("sound", "|cffff00ffTPB Getting Drunk Lay|r",
+    [[Interface\Addons\SharedMedia_ONS\sound\tpb\TPB_GettingDrunkLay.mp3]])
+LSM:Register("sound", "|cffff00ffTPB Getting Drunk Ricky|r",
+    [[Interface\Addons\SharedMedia_ONS\sound\tpb\TPB_GettingDrunkRicky.mp3]])
+LSM:Register("sound", "|cffff00ffTPB Lahey|r", [[Interface\Addons\SharedMedia_ONS\sound\tpb\TPB_Lahey.mp3]])
+LSM:Register("sound", "|cffff00ffTPB Liquor|r", [[Interface\Addons\SharedMedia_ONS\sound\tpb\TPB_Liquor.mp3]])
+LSM:Register("sound", "|cffff00ffTPB Little Puff|r", [[Interface\Addons\SharedMedia_ONS\sound\tpb\TPB_LittlePuff.mp3]])
+LSM:Register("sound", "|cffff00ffTPB Safety Off|r", [[Interface\Addons\SharedMedia_ONS\sound\tpb\TPB_SafetyOff.mp3]])
+LSM:Register("sound", "|cffff00ffTPB Stressed|r", [[Interface\Addons\SharedMedia_ONS\sound\tpb\TPB_Stressed.mp3]])
+LSM:Register("sound", "|cffff00ffTPB Way She Goes|r", [[Interface\Addons\SharedMedia_ONS\sound\tpb\TPB_WaySheGoes.mp3]])
+
+
 -- TODO - Create Categories for all of the sounds so they can easily be searched in game.
 -- TODO - Add the in game Icon to the name of the markers.
 
