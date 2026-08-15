@@ -1,3 +1,7 @@
+# Version 1.1.27
+- Added Hyanda Bar Texture.
+
+
 # Version 1.1.26
 - Added Boro Sounds.
 

@@ -4,7 +4,8 @@
     "titleBar.activeBackground": "#76320e",
     "titleBar.activeForeground": "#e7e7e7",
     "titleBar.inactiveBackground": "#76320e99",
-    "titleBar.inactiveForeground": "#e7e7e799"
+    "titleBar.inactiveForeground": "#e7e7e799",
+    "commandCenter.foreground": "#e7e7e7"
   },
   "peacock.color": "#76320e",
   "Lua.diagnostics.globals": [
